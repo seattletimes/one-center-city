@@ -1,7 +1,19 @@
 @import "seattletimes";
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .whiteout {
   background: white;
+  clear: both;
+
+  .constrained {
+    max-width: 600px;
+    padding: 20px;
+    margin: auto;
+  }
 }
 
 .map-container {
@@ -11,7 +23,7 @@
   width: 100%;
   height: 100%;
   z-index: -1;
-  background: #afc8de;
+  background: #BAC7D2;
 
   svg {
     position: absolute;
@@ -19,6 +31,24 @@
     left: 0;
     width: 100%;
     height: 100%;
+    font-family: @df-sans;
+
+    text, tspan {
+      font-family: @df-sans !important;
+    }
+
+    & > g[id] {
+      visibility: hidden;
+
+      &.highlight {
+        visibility: visible;
+        filter: url(#drop);
+      }
+    }
+  }
+
+  image.zoomed {
+    filter: url(#desat);
   }
 }
 
@@ -26,8 +56,27 @@
   float: right;
   clear: right;
   background: white;
-  max-width: 300px;
+  max-width: 50%;
   padding: 20px;
   margin-top: 30vh;
   margin-bottom: 50vh;
+  margin-right: 40px;
+  box-shadow: 0 24px 16px -8px fade(black, 20%);
+
+  &.instructions {
+    font-family: @df-sans;
+    font-style: italic;
+  }
+}
+
+ul.dates {
+  padding: 0;
+  margin: 16px 0;
+  list-style-type: none;
+  font-family: @df-sans;
+  font-size: 80%;
+
+  .label {
+    text-transform: uppercase;
+  }
 }

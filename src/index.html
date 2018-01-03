@@ -7,25 +7,61 @@
   <body>
 
     <div class="whiteout">
-      <%= markdown.text %>
+
+      <%= t.include("partials/_nav.html") %>
+
+      <%= t.include("partials/_ad.html", { type: "banner" }) %>
+
+      <div class="constrained">
+        <%= markdown.text %>
+      </div>
     </div>
 
     <div class="interactive">
       <savage-image src="./assets/map.svg" class="map-container"></savage-image>
+        <div class="poi instructions">
+          Scroll the page to view each project in One Center City, including start and end dates and a description of the planned work.
+        </div>
       <%
       var commonmark = require("commonmark");
       var parser = new commonmark.Parser();
       var writer = new commonmark.HtmlRenderer({ smart: true });
       var html = md => writer.render(parser.parse(md));
       %>;
-      <% json.poi.forEach(function(poi) { %>
+      <% json.poi.filter(p => p.link).forEach(function(poi) { %>
         <div class="poi" data-map="<%= poi.link || "" %>">
-          <h2><%= poi.head %></h2>
+          <h3><%= poi.head %></h3>
+          <% if (poi.start || poi.end) { %>
+          <ul class="dates">
+            <% if (poi.start) { %><li><span class="label">Start:</span> <%= poi.start %><% } %>
+            <% if (poi.end) { %><li><span class="label">End:</span> <%= poi.end %><% } %>
+          </ul>
+          <% } %>
           <div class="text">
             <%= html(poi.text) %>
           </div>
         </div>
       <% }) %>
+    </div>
+
+    <div class="whiteout">
+      <div class="constrained">
+        <h2>Other projects</h2>
+        <% json.poi.filter(p => !p.link).forEach(function(poi) { %>
+        <div class="item">
+          <h3><%= poi.head %></h3>
+          <% if (poi.start || poi.end) { %>
+          <ul class="dates">
+            <% if (poi.start) { %><li><span class="label">Start:</span> <%= poi.start %><% } %>
+            <% if (poi.end) { %><li><span class="label">End:</span> <%= poi.end %><% } %>
+          </ul>
+          <% } %>
+          <div class="text">
+            <%= html(poi.text) %>
+          </div>
+        </div>
+        <% }) %>
+      </div>
     </div>
 
     <script src="app.js" async></script>
