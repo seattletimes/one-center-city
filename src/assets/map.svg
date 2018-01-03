@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" width="770.1" height="848.3" viewBox="0 0 770.1 848.3" xml:space="preserve" id="svg2">
+  <style type="text/css" id="style4">
+    .st1{fill:#d8d9da}.st1,.st2{fill-rule:evenodd;clip-rule:evenodd}.st2,.st3{fill:#efdfd0}.st4{fill:#d8d9da}.st5{stroke:#fff;stroke-width:1.0744;stroke-miterlimit:10}.st5,.st6,.st8{fill:none;stroke-linecap:round;stroke-linejoin:round}.st6{stroke-miterlimit:10;stroke:#fff;stroke-width:1.5}.st8{stroke:#d9d9d9;stroke-width:8.953720e-02}.st12{stroke:#fff;stroke-width:.6268}.st12,.st13,.st14{fill:none;stroke-linejoin:round;stroke-miterlimit:10}.st13{stroke-linecap:round;stroke:#fff;stroke-width:.6268}.st14{stroke:#d9d9d9;stroke-width:.9849}.st16,.st17,.st19{fill:#c7c8ca}.st17,.st19{clip-path:url(#SVGID_2_)}.st19{fill:#d8d9da}.st20,.st21,.st24,.st25,.st26{clip-path:url(#SVGID_2_);fill:#ccd9cc}.st21,.st24,.st25,.st26{fill:#efdfd0}.st24,.st25,.st26{fill:#c1d4ba}.st25,.st26{fill:#6d6e71}.st26{fill-rule:evenodd;clip-rule:evenodd;fill:#efdfd0}.st27,.st28,.st30,.st40,.st41{clip-path:url(#SVGID_2_);fill:none;stroke:#fff;stroke-width:.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.st28,.st30,.st40,.st41{stroke-width:1.5}.st30,.st40,.st41{stroke-width:2.235}.st40,.st41{stroke-width:1.043}.st41{stroke-width:.75}.st43,.st46{stroke-width:4}.st43{clip-path:url(#SVGID_2_);fill:none;stroke-miterlimit:10;stroke:#d8d9da}.st46{stroke:#bcbec0;stroke-linecap:round;stroke-linejoin:round}.st46,.st47,.st53{clip-path:url(#SVGID_2_);fill:none;stroke-miterlimit:10}.st47{stroke-linecap:round;stroke-linejoin:round;stroke:#fff;stroke-width:2.98}.st53{stroke:#dcddde;stroke-width:5.599}.st56{fill:#6d6e71}.st59{fill:#231f20}.st60{clip-path:url(#SVGID_2_);fill:none;stroke:#d8d9da;stroke-width:3;stroke-miterlimit:10}.st62{font-family:&apos;SunST-Bold&apos;}.st63{font-size:10px}.st64{font-family:&apos;SunST-MediumItalic&apos;}.st65{fill:#508ebc}.st66{font-family:&apos;SunST-Medium&apos;}.st67{font-size:6.0001px}.st68{font-size:6px}.st69{font-size:5.9999px}.st70,.st72{fill:none}.st72{fill-rule:evenodd;clip-rule:evenodd;stroke:#fff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.st73{fill:#fff;stroke:#4d4d4d;stroke-width:.5;stroke-miterlimit:3.8636}.st74{fill:#4d4d4d}.st75{font-size:11.8772px}.st76{fill:#fff;stroke:#231f20;stroke-width:.7558;stroke-miterlimit:3.8636}.st78,.st79{fill:none;stroke:#f7941d;stroke-width:1.2084}.st79{fill:#f7941d;stroke-width:.8984}.st83,.st84{clip-path:url(#SVGID_4_);fill:none;stroke:#6f85c2}.st83{stroke-dasharray:4.853,4.853}.st84{stroke-width:2}.st86{stroke:#72c05d}.st86,.st93,.st94,.st95{clip-path:url(#SVGID_4_);fill:none}.st93{stroke-width:2;stroke:#72c05d}.st94,.st95{stroke:#6d6e71}.st94{stroke-width:5.100000e-02;stroke-miterlimit:10}.st95{stroke-dasharray:4.853,4.853}.st99{fill:none;stroke:#fbb157}.st100,.st102{fill-rule:evenodd;clip-rule:evenodd;fill:#fec465;stroke:#fff;stroke-width:.8084;stroke-linejoin:round}.st102{fill:#ed1c24}.st106{fill:#d3c8e3}.st107{fill:#d4d4d4}.st111{fill:none;stroke:#000;stroke-width:.7751}.st115{fill:#f99f1c}
+  </style>
+  <image xlink:href="./assets/base.jpg" x="0" y="0" width="770.1" height="848.3" />
+  <g id="fifth_ave_bus_lane">
+    <path id="polyline12536" fill="none" stroke="#ccc" stroke-width=".3776" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M317.9 678.2l-.4-.7-1.2-2.3-1.5-2.7-.3-.5"/>
+    <path class="st78" d="M316.6 702.1l-12-19.9 8.7-6s.1-.1.2-.4" id="path12538"/>
+    <path class="st78" id="line12540" d="M272.8 605l12.7-7"/>
+    <path class="st79" id="polygon12542" d="M282.5 598.1l1.7 2.2 2.6-3.2z"/>
+    <path class="st79" id="polygon12544" d="M318.1 707.9l2.1-1.8-3.1-2.8z"/>
+    <path class="st79" id="polygon12546" d="M264.8 569.7l1.7 2.2 2.6-3.2z"/>
+    <path class="st78" d="M282 620.9c-13.1-22.2-26.2-44.2-26.2-44.2l9.5-5.7" id="path12548"/>
+    <path d="M313.6 675.9c.2-.5-1.4-4.5-.7-2.9.3.7-13.7-22.9-30.9-52.1" id="path12550" fill="none" stroke="#f36e21" stroke-width="1.2084"/>
+    <path d="M336.8 766.5v-27.3s-.2-3.5-2-6c-1.7-2.5-17.2-28.9-17.2-28.9" id="path12552" fill="none" stroke="#f7941d" stroke-width="1.2084" stroke-dasharray=".4492,.4492"/>
+    <path id="polygon12554" fill="#f36e21" stroke="#f36e21" stroke-width=".8984" d="M282.8 625.1l2.1-1.8-3.1-2.8z"/>
+  </g>
+  <g id="bus_routes">
+    <g id="g12557">
+      <defs id="defs12559">
+        <path id="SVGID_3_" d="M2 .5h765V848H2z"/>
+      </defs>
+      <clipPath id="SVGID_4_">
+        <use xlink:href="#SVGID_3_" id="use12563" overflow="visible"/>
+      </clipPath>
+      <path class="st83" d="M573.1 136.5L515 148.1l-47.8 1.2-50.3 9.1s-11.5 6.1-13.3 10.3c-1.8 4.3-4.2 20.1-4.2 20.1l-3.6 56.5s-8.5 41.3-10.9 49.8c-2.4 8.5-13.9 26.1-13.9 26.1l-24.2 36.5s-3.6 21.3-4.2 28.6c-.6 7.3-3 133.7-3 133.7l-3 9.7-4.7 2-84.9 52.8 89.6 150.8.6 54.8" id="path12565" clip-path="url(#SVGID_4_)"/>
+      <path class="st83" id="polyline12567" clip-path="url(#SVGID_4_)" d="M334.4 778.7l-9.6-1-1.4-40-87.7-151.3 90.1-98.8"/>
+      <path class="st84" d="M503.7-44.2L502.5.9l-3.4 7.8 72.3 54.6s3.7 5.4 3.7 9.8-1.7 50.2-1.7 50.2l2 8.1 1.7 6.8-3.7 5.4s-2.7 3.1-5.1 1.7c-2.4-1.4-2.4-2.7-2.4-3.7s1.4-2.7 1.4-2.7 3.4-3.1 6.8-3.7c3.4-.7 15.5-2.4 15.5-2.4l8.8-1.4 11.2-1s22.6-6.4 32.4-7.1c9.8-.7 34.1-.3 34.1-.3l131.7 18" id="path12569" clip-path="url(#SVGID_4_)"/>
+      <path class="st84" d="M574.1 116.9s3.4 7.5 5.4 8.8c2 1.4 26.7 1.4 26.7 1.4l25.3-6.1s18.6-3.7 22.3-3.1c3.7.7 10.1 1 10.1 1L807 136.1" id="path12571" clip-path="url(#SVGID_4_)"/>
+      <path d="M401.9-44.2l-10.2 293.9s-7.9 42.7-12.4 50.6c-4.6 7.9-23.6 30.9-23.6 30.9s-17 25-18.3 31.5c-1.3 6.6-2.6 25.6-2.6 25.6l-.7 69.6-2 36.1-10.5 45.3-14.4 45.3-4.6 3.3-84.4 49.9 7.2 14.5 76.6-46.6 6.5-19.1 4.6-7.9 7.9-30.9" id="path12573" clip-path="url(#SVGID_4_)" fill="none" stroke="#f47d20" stroke-width="2"/>
+      <path class="st86" id="line12575" clip-path="url(#SVGID_4_)" d="M240.6 676l2.1-1.2"/>
+      <path id="line12577" clip-path="url(#SVGID_4_)" fill="none" stroke="#72c05d" stroke-dasharray="4.017,4.017" d="M246.2 672.8l12.2-7"/>
+      <path class="st86" id="polyline12579" clip-path="url(#SVGID_4_)" d="M260.1 664.8l2.1-1.2-1.2-2.1"/>
+      <path id="polyline12581" clip-path="url(#SVGID_4_)" fill="none" stroke="#72c05d" stroke-dasharray="4.811,4.811" d="M258.6 657.3l-35-59.4-69-61.2"/>
+      <path class="st86" id="polyline12583" clip-path="url(#SVGID_4_)" d="M152.8 535.1l-1.8-1.6 1.6-1.9"/>
+      <path id="line12585" clip-path="url(#SVGID_4_)" fill="none" stroke="#72c05d" stroke-dasharray="4.825,4.825" d="M155.7 527.9l17.1-20.3"/>
+      <path class="st86" id="polyline12587" clip-path="url(#SVGID_4_)" d="M174.3 505.8l1.6-1.9 1.8 1.6"/>
+      <path id="line12589" clip-path="url(#SVGID_4_)" fill="none" stroke="#72c05d" stroke-dasharray="2.719,2.719" d="M179.8 507.3l3 2.7"/>
+      <path class="st86" id="polyline12591" clip-path="url(#SVGID_4_)" d="M183.9 510.9l1.8 1.6-1.6 1.8"/>
+      <path id="line12593" clip-path="url(#SVGID_4_)" fill="none" stroke="#72c05d" stroke-dasharray="4.286,4.286" d="M181.3 517.5l-15.5 17.8"/>
+      <path class="st86" id="line12595" clip-path="url(#SVGID_4_)" d="M164.4 536.9l-1.6 1.8"/>
+      <path class="st86" id="line12597" clip-path="url(#SVGID_4_)" d="M173.9 550.6l.8-.9"/>
+      <path id="line12599" clip-path="url(#SVGID_4_)" fill="none" stroke="#72c05d" stroke-dasharray="2.35,4.7" d="M177.9 546.2l40.7-45.5"/>
+      <path class="st86" id="line12601" clip-path="url(#SVGID_4_)" d="M220.2 498.9l.8-.9"/>
+      <path class="st93" id="polyline12603" clip-path="url(#SVGID_4_)" d="M272.7 741.7l-1.7 70.4h-6l-2.1 11.5-3 26.1-10.8 30.3-11.1 28.6-5.2 23.7-8.5 16.4-5.4 7.3-2.4 6.1-2.6 178.5"/>
+      <path class="st93" id="polyline12605" clip-path="url(#SVGID_4_)" d="M272.4 743.4l-.3-15.5-31.5-51.9"/>
+      <path class="st94" id="polygon12607" d="M586.9 54.2v4.5l-1 .1V52H586.8z"/>
+      <path class="st94" id="polygon12609" d="M585.9 55.6V59h-.6l.1-3.5h.6z"/>
+      <path class="st95" id="polyline12611" clip-path="url(#SVGID_4_)" d="M234.6 608.6l69.7-41.9-6.8-11.1-11.9 6.9 14.5 23-50.2 31.6L320.5 740"/>
+      <path class="st95" d="M360.6 873.2c-6.1 1.7-11.7 3.2-14.6 3.4-8.5.9-28.1 0-29.8-5.1-1.7-5.1.7-19.9.7-19.9s5.2-4 4.4-8.3c-.9-4.3.8-103.3.8-103.3" id="path12613" clip-path="url(#SVGID_4_)"/>
+      <path d="M578.7 908.9c-8.9 0-53.9-.4-64-4.5-11.3-4.5-24.9-33.7-31.6-42.7-6.8-9-31.7-29.2-47.5-18s-38.4 18-38.4 18l-10.3 3.3s-14.2 4.7-26.2 8.1" id="path12615" clip-path="url(#SVGID_4_)" fill="none" stroke="#6d6e71" stroke-width="4.819" stroke-linecap="round" stroke-linejoin="round"/>
+      <path class="st95" d="M367.3 870.6s-9.4 1.7-18.7-.9c-9.4-2.6-11.9-23.9-11.9-27.3 0-3.4-.8-68.3-.8-68.3L323 752.8l-7.7-5.1s-.9 0-13.6-19.6c-12.8-19.6-68.9-120.4-68.9-120.4" id="path12617" clip-path="url(#SVGID_4_)"/>
+      <path d="M328.1 484l-79.7 88-32.5 34.7 101.6 172.9 6.7 1.2-.8-37.4-2.4-9.2-86.1-145 96.8-57.4 2.8-3.6 2.4-7.2 3.2-115.5s.8-25.5 1.2-29.9c.4-4.4 8.7-25.5 8.7-25.5l23-34.3 7-13.8" id="path12619" clip-path="url(#SVGID_4_)" fill="none" stroke="#f36e55" stroke-dasharray="4.853,4.853"/>
+    </g>
+  </g>
+  <g id="streetcar_routes">
+    <path d="M238 527.3l-2.1-29.6 1.1-32.5 10.7-.5s2.6-11.1 2.1-15.7c-.5-4.7 2.2-55.5 2.2-55.5" id="path12622" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#fbb157"/>
+    <path class="st99" d="M296.5 370.2l-19 21.1-4.2 2.3s-30-1.3-33.2-1.3-3.3 5.4-3.3 5.4l-3.7 99 10.3 74.6-.2 10.3" id="path12624"/>
+    <path class="st100" d="M243.1 544.8c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.6 0 3 1.3 3 2.9z" id="path12626"/>
+    <path class="st100" d="M237.6 507c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12628"/>
+    <path class="st100" d="M237.7 455.1c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.6-.1 3 1.3 3 2.9z" id="path12630"/>
+    <path class="st100" d="M238.8 416.2c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12632"/>
+    <path class="st100" d="M252.6 455.6c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.7-.1 3 1.2 3 2.9z" id="path12634"/>
+    <path class="st100" d="M253.7 429.3c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12636"/>
+    <path class="st100" d="M299.3 370.3c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.6 0 3 1.3 3 2.9z" id="path12638"/>
+    <path d="M240.9 577.4L205 616.2l67.5 113.4-.8 44.1s0 2.9 1.5 2.9 10 .3 10 .3" id="path12640" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#f37021"/>
+    <path class="st100" d="M245.4 581.7c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12642"/>
+    <path class="st102" d="M271 722.9c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.2 3 2.9z" id="path12644"/>
+    <path class="st102" d="M252.2 692c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12646"/>
+    <path class="st102" d="M243.3 577.5c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12648"/>
+    <path class="st102" d="M216.2 630.2c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12650"/>
+    <path class="st102" d="M229.1 593.5c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12652"/>
+    <path class="st99" id="polyline12654" d="M285.2 776.7l184.1 3.4 2-35.1-65.4-1.5 3.7-238.5"/>
+    <path class="st100" d="M411.9 504.4c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12656"/>
+    <path class="st100" d="M412.7 557.3c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12658"/>
+    <path class="st100" d="M411 624c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12660"/>
+    <path class="st100" d="M410.1 688.5c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12662"/>
+    <path class="st100" d="M418.3 742.8c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.6 0 3 1.3 3 2.9z" id="path12664"/>
+    <path class="st100" d="M474.8 760.4c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.6 0 3 1.3 3 2.9z" id="path12666"/>
+    <path class="st100" d="M457.3 780c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9s3 1.3 3 2.9z" id="path12668"/>
+    <path class="st100" d="M372.1 778.4c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9c0-1.6 1.3-2.9 3-2.9 1.7-.1 3 1.2 3 2.9z" id="path12670"/>
+    <path class="st100" d="M346.2 777.3c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9 1.3-2.9 3-2.9c1.6 0 3 1.3 3 2.9z" id="path12672"/>
+    <path class="st100" d="M287.1 777.3c0 1.6-1.3 2.9-3 2.9s-3-1.3-3-2.9 1.3-2.9 3-2.9c1.6 0 3 1.3 3 2.9z" id="path12674"/>
+  </g>
+  <g id="fourth_ave_bikelane">
+    <path id="polyline12677" fill="none" stroke="#58bc6e" stroke-width="2" d="M324.6 766.3l-.3-24.8-11.7-20.3-78.7-131.3-92-82.9 6.6-7.8-.6-2.6"/>
+  </g>
+  <g id="convention_bus_station">
+    <path id="polygon12680" fill="#fedaae" d="M297.6 569.5l21.2-12-7.7-12.6-20.8 12.3z"/>
+    <path id="polygon12682" fill="#b3b3b3" d="M296.4 566.8l9.5-5.6-2.7-4.1-9.4 5.6z"/>
+    <path class="st106" id="polygon12684" d="M294.9 545.1l2.7 4.6-8.8 5.3-1.1-1.8z"/>
+    <path class="st107" id="polygon12686" d="M303.9 554.1l4-2.4-2.1-3.7-4.1 2.4z"/>
+    <path class="st107" d="M307.9 551.7l1.7 2.7 5.3-3.1.9 1.7-6.1 3.9s-.9.5-1.6.3c-1.2-.3-1.8-1.6-1.8-1.6l-1.2.7-1.3-2.2 4.1-2.4z" id="path12688"/>
+    <path d="M316.1 554.6c-1.3 1.5-3 3.2-5.5 4.6-3.8 2.1-11.8 7-14.1 8.2" id="path12690" fill="none" stroke="#fff" stroke-width=".9689"/>
+    <path class="st107" id="polygon12692" d="M309.8 553.7l-3.4-5.8 4.5-2.5 3.3 5.7z"/>
+    <g id="g12694">
+      <path class="st106" id="polygon12696" d="M300.1 548.3l-3.3-5.1 7.3-8.2 4.9 7.9z"/>
+    </g>
+    <g id="g12698">
+      <path d="M310.5 546.3l7.1 11.3-19.9 11.3-6.5-11.4 19.3-11.2m.2-1l-20.6 12 7.3 12.7 21.2-12.1-7.9-12.6z" id="path12700" fill="#fbb157"/>
+    </g>
+    <path id="polygon12702" fill="none" stroke="#f37021" stroke-width=".4844" d="M319 558l-21.7 12.3-9.8-16.7 16.6-18.6z"/>
+    <g id="g12704">
+      <g id="g12706">
+        <path class="st111" d="M291.3 559.8s.1 0 .2-.1" id="path12708"/>
+        <path d="M291.9 559.5c1-.6 3.1-1.6 4-.8 1.2 1.2 2.1 2.9 2.2 3.6.1.6-.6 2.6-1.1 3.5" id="path12710" fill="none" stroke="#000" stroke-width=".7751" stroke-dasharray=".4808,.4808"/>
+        <path class="st111" d="M296.9 566c-.1.1-.1.1-.1.2" id="path12712"/>
+      </g>
+    </g>
+  </g>
+  <g id="university_bus_stops">
+    <path d="M561.7 44.4s6.3-.4 8.1-1.1l6.9-2.9s2.8-1.4 3.6-.9 1.4 1.5 1.3 2.4c-.1.8-2.3 7.2-2.3 7.2l-.8 2.5-1.7 9.3" id="path12715" fill="none" stroke="#ffdc88" stroke-width=".75"/>
+    <path id="polyline12717" fill="none" stroke="#da2128" stroke-width=".75" d="M584.5 40.2l-2.6 5.5-2.2 7.9-1.3 7.4"/>
+    <path class="st115" id="polygon12719" d="M581.8 47.7l-.3-.2.7-2.1 1-2.1.3.1-1 2.4z"/>
+    <path class="st115" id="polygon12721" d="M579.9 53.6l.3.1 1.1-4.5-.3-.1-.7 2.8z"/>
+    <path class="st16" d="M586.1 47.6l-.5-1.3-.8-.9c-.1-.1-3-1.3-3.1-1.3-.5-.1-.9-.2-1.3-.1h-.4l.1.6v.1l.3.5c.2 0 .4-.1.6-.1h.9c.7.1 1.2.4 1.7.9.1.1.2.2.3.4.1.1.2.2.2.3.5.8.3 1.9 0 2.8l-1.2 4.8-.8 3.8c-.2.7-.3 1.5-.4 2.2l-.2 1.9.7-.6.1-1.4c.1-.7.2-1.3.3-2l.8-3.9 1.1-4.8c.4-1.4.4-2.9-.6-4l-.2-.2.4.4.9 1.1s.4.7.5.9h-.4V49l-.2 3.8.8-.1v-3.8h.2v2.7h.7v-2c.1.3.1-.7-.5-2" id="path12723"/>
+    <path class="st115" id="polygon12725" d="M578.7 50.2l-.4-.1-1 4.5.4.1z"/>
+  </g>
+</svg>
