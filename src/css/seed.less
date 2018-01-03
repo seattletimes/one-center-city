@@ -47,8 +47,14 @@ body {
     }
   }
 
+  image {
+    transition: opacity .2 linear;
+    transform: translateZ(0);
+  }
+
   image.zoomed {
-    filter: url(#desat);
+    // filter: url(#desat);
+    opacity: .6;
   }
 }
 
@@ -62,6 +68,11 @@ body {
   margin-bottom: 50vh;
   margin-right: 40px;
   box-shadow: 0 24px 16px -8px fade(black, 20%);
+
+  @media @mobile {
+    float: none;
+    max-width: 100%;
+  }
 
   &.instructions {
     font-family: @df-sans;
