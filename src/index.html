@@ -12,7 +12,21 @@
 
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
+      <div class="splash">
+        <svg class="placeholder" viewBox="0 0 1 1" preserveAspectRatio="none">
+          <line x1="0" y1="0" x2="1" y2="1" vector-effect="non-scaling-stroke" stroke="black"></line>
+          <line x1="0" y1="1" x2="1" y2="0" vector-effect="non-scaling-stroke" stroke="black"></line>
+        </svg>
+      </div>
+
       <div class="constrained">
+        <h1>If you think Seattle traffic is bad now, just wait until all these projects start</h1>
+
+        <div class="byline">
+          <div class="author">By Mike Lindblom</div>
+          <div class="date">Published Jan. 7, 2018</div>
+        </div>
+
         <%= markdown.text %>
       </div>
     </div>
