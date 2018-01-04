@@ -1,0 +1,16 @@
+<h3><%= poi.head %></h3>
+<% if (poi.start || poi.end) { %>
+<ul class="dates">
+  <% if (poi.start) { %><li><span class="label">Start:</span> <%= poi.start %><% } %>
+  <% if (poi.end) { %><li><span class="label">End:</span> <%= poi.end %><% } %>
+</ul>
+<% } %>
+<% if (poi.image) { %>
+<div class="photo">
+  <img src="./assets/photos/<%= poi.image %>">
+  <div class="credit"><%= poi.credit %></div>
+</div>
+<% } %>
+<div class="text">
+  <%= html(poi.text) %>
+</div>

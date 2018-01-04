@@ -1,35 +1,34 @@
 @import "seattletimes";
+@import "animation";
 
 body {
   margin: 0;
   padding: 0;
 }
 
-.splash {
-  position: relative;
-  max-width: 1200px;
-  margin: auto;
-  padding-bottom: percentage(9 / 16);
-  
-  .placeholder {
-    background: #EEE;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
+h1 {
+  font-size: 32px;
+  text-align: center;
 }
 
 .whiteout {
   background: white;
   clear: both;
+  padding: 4px 0;
 
   .constrained {
-    max-width: 600px;
+    max-width: 760px;
     padding: 20px;
     margin: auto;
   }
+}
+
+aside.traffic-lab {
+  float: right;
+  width: 50%;
+  padding: 0 20px 20px;
+  font-family: @df-sans;
+  font-size: 16px;
 }
 
 .map-container {
@@ -101,6 +100,21 @@ body {
   }
 }
 
+.photo {
+  img {
+    display: block;
+    margin: auto;
+  }
+
+  .credit {
+    text-align: right;
+    text-transform: uppercase;
+    font-family: @df-sans;
+    font-size: 15px;
+    font-style: italic;
+  }
+}
+
 ul.dates {
   padding: 0;
   margin: 16px 0;
@@ -110,5 +124,41 @@ ul.dates {
 
   .label {
     text-transform: uppercase;
+  }
+}
+
+.credit-block {
+  .display-flex();
+  padding: 20px 10px;
+  background: @df-light-gray;
+
+  @media @mobile {
+    display: block;
+  }
+
+  .credits {
+    .flex(0 0 50%);
+    font-family: @df-sans;
+    font-size: 16px;
+    padding-right: 20px;
+  }
+
+  .reporter {
+    padding: 0 0 20px;
+  }
+
+  h2 {
+    margin-top: 0;
+    font-size: 20px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: 8px;
   }
 }

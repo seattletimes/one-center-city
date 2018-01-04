@@ -12,20 +12,25 @@
 
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
+      <h1 class="constrained">If you think Seattle traffic is bad now, just wait until all these projects start</h1>
+
       <div class="splash">
-        <svg class="placeholder" viewBox="0 0 1 1" preserveAspectRatio="none">
-          <line x1="0" y1="0" x2="1" y2="1" vector-effect="non-scaling-stroke" stroke="black"></line>
-          <line x1="0" y1="1" x2="1" y2="0" vector-effect="non-scaling-stroke" stroke="black"></line>
-        </svg>
+        <div class="animation-container">
+          <img src="./assets/animation/maxcon_banner_bg.jpg" class="backdrop">
+          <img src="./assets/animation/maxcon_banner_bus.png" class="bus-left layer">
+          <img src="./assets/animation/maxcon_banner_bus_2.png" class="bus-right layer">
+          <img src="./assets/animation/maxcon_banner_biker.png" class="bike layer">
+        </div>
       </div>
 
       <div class="constrained">
-        <h1>If you think Seattle traffic is bad now, just wait until all these projects start</h1>
 
         <div class="byline">
-          <div class="author">By Mike Lindblom</div>
+          <div class="author">By <a href="https://www.seattletimes.com/author/mike-lindblom/">Mike Lindblom</a></div>
           <div class="date">Published Jan. 7, 2018</div>
         </div>
+
+        <%= t.include("_trafficlab.html") %>
 
         <%= markdown.text %>
       </div>
@@ -44,16 +49,7 @@
       %>;
       <% json.poi.filter(p => p.link).forEach(function(poi) { %>
         <div class="poi" data-map="<%= poi.link || "" %>">
-          <h3><%= poi.head %></h3>
-          <% if (poi.start || poi.end) { %>
-          <ul class="dates">
-            <% if (poi.start) { %><li><span class="label">Start:</span> <%= poi.start %><% } %>
-            <% if (poi.end) { %><li><span class="label">End:</span> <%= poi.end %><% } %>
-          </ul>
-          <% } %>
-          <div class="text">
-            <%= html(poi.text) %>
-          </div>
+          <%= t.include("_poi.html", { poi, html }) %>
         </div>
       <% }) %>
     </div>
@@ -63,19 +59,35 @@
         <h2>Other projects</h2>
         <% json.poi.filter(p => !p.link).forEach(function(poi) { %>
         <div class="item">
-          <h3><%= poi.head %></h3>
-          <% if (poi.start || poi.end) { %>
-          <ul class="dates">
-            <% if (poi.start) { %><li><span class="label">Start:</span> <%= poi.start %><% } %>
-            <% if (poi.end) { %><li><span class="label">End:</span> <%= poi.end %><% } %>
-          </ul>
-          <% } %>
-          <div class="text">
-            <%= html(poi.text) %>
-          </div>
+          <%= t.include("_poi.html", { poi, html }) %>
         </div>
         <% }) %>
+
+
+        <div class="credit-block">
+          <div class="credits">
+            <div class="reporter">
+              Mike Lindblom: 206-515-5631 or mlindblom@seattletimes.com. Twitter: @mikelindblom
+            </div>
+
+            <h2>Additional Credits</h2>
+            <ul>
+              <li> Design: Mark Nowlin
+              <li> Development: Thomas Wilburn
+              <li> Project management: Laura Gordon
+            </ul>
+          </div>
+
+          <%= t.include("partials/_subscribe.html") %>
+        </div>
+
+        <footer class="comment-block">
+          <%= t.include("partials/_comments.html", { article: "designer-app-1515095881736" }) %>
+        </footer>
+
       </div>
+
+      <%= t.include("partials/_navBottom.html") %>
     </div>
 
     <script src="app.js" async></script>

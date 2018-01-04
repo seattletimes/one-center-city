@@ -1,0 +1,53 @@
+@keyframes commute {
+  from {
+    transform: translateX(150%) translateY(-50%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes pedal {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(400%) translateY(-40%);
+  }
+}
+
+.splash {
+  position: relative;
+  max-width: 1200px;
+  margin: auto;
+  overflow: hidden;
+
+  .backdrop {
+    display: block;
+  }
+
+  .layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateZ(0);
+
+    &.bus-left {
+      width: 75%;
+      top: 40%;
+      animation: 5s commute linear infinite;
+    }
+
+    &.bus-right {
+      width: 85%;
+      top: 50%;
+      animation: 4s commute linear infinite reverse;
+    }
+
+    &.bike {
+      width: 30%;
+      top: 70%;
+      animation: 7s pedal linear infinite;
+    }
+  }
+}
