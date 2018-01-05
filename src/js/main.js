@@ -19,6 +19,7 @@ container.addEventListener("load", function() {
   var camera = new Camera($.one("svg", container));
   var image = savage(".map-container image");
   var svg = $.one("svg", container);
+  svg.setAttribute("alt", "An interactive map of the One Center City project");
 
   var m = savage.dom;
   var dropshadow = m("filter", { id: "drop" },

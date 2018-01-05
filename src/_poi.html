@@ -7,8 +7,8 @@
 <% } %>
 <% if (poi.image) { %>
 <div class="photo">
-  <img src="./assets/photos/<%= poi.image %>">
-  <div class="credit"><%= poi.credit %></div>
+  <img src="./assets/photos/<%= poi.image %>" alt="">
+  <div aria-hidden="true" class="credit"><%= poi.credit %></div>
 </div>
 <% } %>
 <div class="text">

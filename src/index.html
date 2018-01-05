@@ -12,7 +12,7 @@
 
       <%= t.include("partials/_ad.html", { type: "banner" }) %>
 
-      <h1 class="constrained">If you think Seattle traffic is bad now, just wait until all these projects start</h1>
+      <h1 class="constrained">If you think Seattle traffic is bad now, just wait until these projects start</h1>
 
       <div class="splash">
         <div class="animation-container">
@@ -46,8 +46,8 @@
       var parser = new commonmark.Parser();
       var writer = new commonmark.HtmlRenderer({ smart: true });
       var html = md => writer.render(parser.parse(md));
-      %>;
-      <% json.poi.filter(p => p.link).forEach(function(poi) { %>
+      %>
+      <% json.poi.forEach(function(poi) { %>
         <div class="poi" data-map="<%= poi.link || "" %>">
           <%= t.include("_poi.html", { poi, html }) %>
         </div>
@@ -56,13 +56,6 @@
 
     <div class="whiteout">
       <div class="constrained">
-        <h2>Other projects</h2>
-        <% json.poi.filter(p => !p.link).forEach(function(poi) { %>
-        <div class="item">
-          <%= t.include("_poi.html", { poi, html }) %>
-        </div>
-        <% }) %>
-
 
         <div class="credit-block">
           <div class="credits">
@@ -73,8 +66,10 @@
             <h2>Additional Credits</h2>
             <ul>
               <li> Design: Mark Nowlin
+              <li> Animation: Jennifer Luxton
               <li> Development: Thomas Wilburn
               <li> Project management: Laura Gordon
+              <li> Editing: Richard Wagoner
             </ul>
           </div>
 
