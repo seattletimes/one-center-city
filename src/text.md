@@ -6,6 +6,8 @@ And for three more years, your ability to move through one of America’s most c
 
 This era from 2018 to 2021 is euphemistically called the “[period of maximum constraint” by transportation planners.](https://onecentercity.blob.core.windows.net/media/Default/MeetingMaterials/Meeting11/OCC_June8_AG_materials.pdf)
 
+<?<%= t.include("_trafficlab.html") %>?>
+
 You could say the traffic scrum began unofficially New Year’s week at Pioneer Square, where crews started tearing open three blocks of First Avenue South to relocate utilities for a future streetcar line.
 
 About 60 tower cranes are aloft citywide, and in the central neighborhoods as many as 110 more buildings are proposed in the near future, often closing lanes and sidewalks.
