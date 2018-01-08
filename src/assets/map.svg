@@ -1,52 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   x="0px"
-   y="0px"
-   width="770.1px"
-   height="909.3px"
-   viewBox="0 0 770.1 909.3"
-   style="enable-background:new 0 0 770.1 909.3;"
-   xml:space="preserve"
-   id="svg2"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="1centercity-mainmap-W-01.svg"><metadata
-   id="metadata3328"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs3326" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1456"
-   inkscape:window-height="957"
-   id="namedview3324"
-   showgrid="false"
-   inkscape:zoom="0.25954031"
-   inkscape:cx="385.04999"
-   inkscape:cy="454.64999"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="svg2" />
-<style
-   type="text/css"
-   id="style4">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="770.1px"
+	 height="909.3px" viewBox="0 0 770.1 909.3" style="enable-background:new 0 0 770.1 909.3;" xml:space="preserve">
+<style type="text/css">
 	.B_x002F_W_x0020_Water_x0020_25k{fill:#BFBFBF;}
 	.st0{clip-path:url(#SVGID_2_);fill:#AFC8DE;}
 	.st1{clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#D8D9DA;}
@@ -105,7 +61,7 @@
 	.st47{fill:#D4D4D4;}
 	.st48{fill:#EBEBEC;}
 	.st49{fill:none;stroke:#D8D9DA;stroke-width:3;stroke-miterlimit:10;}
-	.st50{fill:#000;}
+	.st50{fill:#6D6E71;}
 	.st51{fill:#508EBC;}
 	.st52{font-family:'SunST-MediumItalic';}
 	.st53{font-size:10px;}
@@ -175,2461 +131,678 @@
 	.st115{opacity:0.5;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFC40C;stroke-width:4;stroke-dasharray:1.984,1.9844;}
 	.st116{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st117{fill-rule:evenodd;clip-rule:evenodd;fill:#D8D9DA;}
-	.st118{clip-path:url(#SVGID_4_);fill:none;stroke:#F26522;}
-	.st119{clip-path:url(#SVGID_4_);fill:none;stroke:#F26522;stroke-dasharray:4.017,4.017;}
+	.st118{clip-path:url(#SVGID_4_);fill:none;stroke:#72C05D;}
+	.st119{clip-path:url(#SVGID_4_);fill:none;stroke:#72C05D;stroke-dasharray:4.017,4.017;}
 	.st120{clip-path:url(#SVGID_4_);fill:none;stroke:#F26522;stroke-dasharray:4.811,4.811;}
 	.st121{clip-path:url(#SVGID_4_);fill:none;stroke:#F26522;stroke-width:2;}
-	.st122{clip-path:url(#SVGID_4_);fill:none;stroke:#F26522;stroke-width:2;}
-	.st123{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#F26522;stroke-width:2;}
-	.st124{fill:none;stroke:#ED1C24;stroke-width:1.6;stroke-linejoin:round;}
-	.st125{fill:#ED1C24;stroke:#FFFFFF;stroke-width:0.8084;stroke-linejoin:round;}
-	.st126{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st122{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#F26522;stroke-width:2;}
+	.st123{fill:none;stroke:#ED1C24;stroke-width:1.6;stroke-linejoin:round;}
+	.st124{fill:#ED1C24;stroke:#FFFFFF;stroke-width:0.8084;stroke-linejoin:round;}
+	.st125{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	
-		.st127{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:1.2679;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st128{opacity:0.85;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#F58220;stroke-width:4;stroke-dasharray:1.984,1.9844;}
-	.st129{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFC40C;stroke-width:4;stroke-dasharray:1.984,1.9844;}
-	.st130{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#D8D9DA;stroke-width:3;}
-	.st131{opacity:0.7;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFC40C;stroke-width:4;stroke-dasharray:1.984,1.9844;}
-	.st132{fill:none;stroke:#F26522;stroke-width:2.235;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st133{fill:none;stroke:#FFFFFF;stroke-width:1.268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st134{fill:none;stroke:#F26522;stroke-width:2.235;stroke-linejoin:round;}
-	.st135{fill:none;stroke:#F26522;stroke-width:2.235;stroke-linejoin:round;stroke-dasharray:2.0483,2.0483;}
-	.st136{fill:none;stroke:#F26522;stroke-miterlimit:10;}
-	.st137{fill:none;stroke:#FFDC88;stroke-width:0.75;}
-	.st138{fill:none;stroke:#ED1C24;stroke-width:0.75;}
-	.st139{fill:none;stroke:#231F20;stroke-width:0.5;}
-	.st140{fill:none;stroke:#F7941D;stroke-width:0.5;}
-	.st141{fill:none;stroke:#F7941D;}
-	.st142{fill:#F26522;stroke:#F26522;stroke-width:2;}
-	.st143{fill:none;stroke:#F26522;stroke-width:4;stroke-dasharray:0.75,2;}
-	.st144{fill:#F26522;stroke:#F26522;stroke-width:0.6945;}
-	.st145{fill:none;stroke:#F26522;stroke-width:1.6;}
-	.st146{font-size:10.9398px;}
-	.st147{fill:none;stroke:#ED1C24;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-	.st148{fill:none;stroke:#F26522;stroke-width:1.6;stroke-miterlimit:10;}
-	.st149{fill-rule:evenodd;clip-rule:evenodd;fill:#666666;}
+		.st126{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:1.2679;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st127{opacity:0.85;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#F58220;stroke-width:4;stroke-dasharray:1.984,1.9844;}
+	.st128{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFC40C;stroke-width:4;stroke-dasharray:1.984,1.9844;}
+	.st129{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#D8D9DA;stroke-width:3;}
+	.st130{opacity:0.7;fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFC40C;stroke-width:4;stroke-dasharray:1.984,1.9844;}
+	.st131{fill:none;stroke:#F26522;stroke-width:2.235;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st132{fill:none;stroke:#FFFFFF;stroke-width:1.268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st133{fill:none;stroke:#F26522;stroke-width:2.235;stroke-linejoin:round;}
+	.st134{fill:none;stroke:#F26522;stroke-width:2.235;stroke-linejoin:round;stroke-dasharray:2.0483,2.0483;}
+	.st135{fill:none;stroke:#F26522;stroke-miterlimit:10;}
+	.st136{fill:none;stroke:#FFDC88;stroke-width:0.75;}
+	.st137{fill:none;stroke:#ED1C24;stroke-width:0.75;}
+	.st138{fill:none;stroke:#231F20;stroke-width:0.5;}
+	.st139{fill:none;stroke:#F7941D;stroke-width:0.5;}
+	.st140{fill:none;stroke:#F7941D;}
+	.st141{fill:#F26522;stroke:#F26522;stroke-width:2;}
+	.st142{fill:none;stroke:#F26522;stroke-width:4;stroke-dasharray:0.75,2;}
+	.st143{fill:#F26522;stroke:#F26522;stroke-width:0.6945;}
+	.st144{fill:none;stroke:#F26522;stroke-width:1.6;}
+	.st145{font-size:10.9398px;}
+	.st146{fill:none;stroke:#ED1C24;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st147{fill:none;stroke:#F26522;stroke-width:1.6;stroke-miterlimit:10;}
+	.st148{fill-rule:evenodd;clip-rule:evenodd;fill:#666666;}
 </style>
 <image xlink:href="./assets/base.jpg" x="0" y="0" width="770.1" height="909.3" />
-<g
-   id="third_ave">
-	<polyline
-   class="st73"
-   points="108.3,495.2 222.3,597.2 305.7,735.8 309.3,739.5  "
-   id="polyline2216" />
-	<text
-   transform="matrix(1 0 0 1 105.583 528.0251)"
-   class="st69 st13 st53"
-   id="text2218">Belltown</text>
-
-	<text
-   transform="matrix(0.4816 0.8764 -0.8764 0.4816 263.967 661.8848)"
-   class="st69 st64 st66"
-   id="text2220">3RD AVE.</text>
-
-	<text
-   transform="matrix(0.7483 0.6633 -0.6633 0.7483 173.5751 550.5469)"
-   class="st69 st64 st66"
-   id="text2222">3RD AVE.</text>
-
-	<text
-   transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 71.2745 491.7378)"
-   class="st69 st64 st65"
-   id="text2224">DENNY WAY</text>
-
+<g id="third_ave">
+	<polyline class="st73" points="108.3,495.2 222.3,597.2 305.7,735.8 309.3,739.5 	"/>
+	<text transform="matrix(1 0 0 1 105.583 528.0251)" class="st69 st13 st53">Belltown</text>
+	<text transform="matrix(0.4816 0.8764 -0.8764 0.4816 258.3049 652.0068)" class="st69 st64 st66">3RD AVE.</text>
+	<text transform="matrix(0.7483 0.6633 -0.6633 0.7483 173.5751 550.5469)" class="st69 st64 st66">3RD AVE.</text>
+	<text transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 71.2745 491.7378)" class="st69 st64 st65">DENNY WAY</text>
 </g>
-<g
-   id="colman_ferry_dock">
-	<path
-   class="st74"
-   d="M221.8,713.6c0,0.1-0.1,0.1-0.2,0.2l-2.1,0.1c-0.1,0-0.2,0.1-0.2,0.2l0.1,6.3c0,0.1-0.1,0.2-0.2,0.2l-0.6,0   c-0.1,0-0.2,0.1-0.2,0.2l0.1,2.2c0,0.1-0.1,0.2-0.2,0.2l-4.8,0.2c-0.1,0-0.2,0.1-0.2,0.2l0,0.7c0,0.1,0.1,0.2,0.2,0.2l4.1-0.2   c0.1,0,0.2,0.1,0.2,0.2l0,0.5c0,0.1-0.1,0.1-0.2,0.2l-4.3,0.2c-0.1,0-0.2,0.1-0.2,0.2l0,0.3c0,0.1,0.1,0.2,0.2,0.2l3.5-0.2   c0.1,0,0.2,0.1,0.2,0.2l0,0.4c0,0.1,0.1,0.2,0.2,0.2l1.5-0.1c0.1,0,0.2,0.1,0.2,0.2l0,0.6c0,0.1-0.1,0.2-0.2,0.2l-1.6,0l0,0.3   l-3.1,0.1c-0.1,0-0.2,0.1-0.2,0.2l0,0.1c0,0.1,0.1,0.2,0.2,0.2l3.8,0.1c0.1,0,0.2,0.1,0.2,0.2l0,0.3c0,0.1-0.1,0.2-0.2,0.2   l-4.1,0.2c-0.1,0-0.1,0.1-0.2,0.1l-0.1,0.4c0,0.1,0.1,0.2,0.2,0.2l4,0.2c0.1,0,0.2,0.1,0.2,0.2l0.2,4c0,0.1-0.1,0.2-0.2,0.2   l-5.6,0.4c-0.1,0-0.2,0.1-0.2,0.2l0,0.5c0,0.1,0.1,0.2,0.2,0.2l5.6-0.5c0.1,0,0.2,0.1,0.2,0.2l0,0.4c0,0.1,0,0.1-0.1,0.2l-4.1,0.9   c-0.1,0-0.1,0.1-0.1,0.2l0.1,0.5c0,0.1,0.1,0.1,0.2,0.1l4-0.5c0.1,0,0.2,0.1,0.2,0.2l0,0.3c0,0.1,0.1,0.2,0.2,0.2l1.3,0   c0.1,0,0.2,0.1,0.2,0.2l0.1,1.7l0.1,1.4c0,0.1,0.1,0.2,0.2,0.2l13.4-0.6c0.1,0,0.1,0,0.2,0.1l0.1,0.3c0,0.1,0,0.2-0.1,0.2l-0.6,0.1   c-0.1,0-0.1,0.1-0.1,0.2l0,1.1c0,0.1,0,0.1-0.1,0.1l-4.9,4.1c-0.1,0.1-0.2,0-0.2,0l0,0c-0.1-0.1-0.2-0.1-0.2,0l-3.5,2.8   c-0.1,0.1-0.1,0.2,0,0.2l0.8,0.8c0.1,0.1,0.2,0.1,0.2,0l3.4-2.8c0.1-0.1,0.1-0.2,0-0.2c-0.1-0.1-0.1-0.2,0-0.3l5.3-4l0.1,0.1   l12.4-0.2c0.1,0,0.1,0,0.1,0.1l0.5,0.6l1.3-0.2l-6.3-12.3l-10.7-17H221.8z"
-   id="path2227" />
-	<path
-   class="st75"
-   d="M219.4,714l-5,0.6c-0.1,0-0.2,0-0.2-0.1l0,0c0-0.1-0.1-0.1-0.2-0.1l-4.5,0.5c-0.1,0-0.2,0.1-0.1,0.2l0.2,1.1   c0,0.1,0.1,0.1,0.2,0.1l4.4-0.5c0.1,0,0.2-0.1,0.1-0.2l0,0c0-0.1,0-0.2,0.1-0.2l5-0.4"
-   id="path2229" />
-	<polygon
-   class="st76"
-   points="233.5,722.7 220.4,722.5 220.2,727.9 235.7,727.9 236.8,728 236.9,723.7 235.6,721.4 234.7,721.9    233.2,719.4 232.8,719.6 234.3,722.1  "
-   id="polygon2231" />
-	<polygon
-   class="st77"
-   points="237.4,731.4 238,731.1 237,729.7 236.6,730  "
-   id="polygon2233" />
-	<polygon
-   class="st77"
-   points="231.6,718.1 232.4,717.6 231.5,716.1 230.6,716.7  "
-   id="polygon2235" />
-	<polyline
-   class="st76"
-   points="238.3,732.4 238.3,732.4 238,733 237.8,733.6 237.6,734.2 237.4,734.7 237.2,735.3 237.1,735.8    237,736.3 236.9,736.7 236.9,737.2 237.8,737.7 238.3,736.9 238,736.7 238.5,736 238.2,735.8 238.7,735.2 238.4,735 239.1,734.3    238.8,734.1 239.6,733.2 238.7,731.8  "
-   id="polyline2237" />
-	<polygon
-   points="236.2,722.1 235.8,721.6 240.6,719 240.8,719.4  "
-   id="polygon2239" />
-	<polygon
-   points="242.5,717.6 242.2,717.2 259,707.2 259.2,707.6  "
-   id="polygon2241" />
-	<polygon
-   points="242.5,717.7 242.2,717.2 240.6,719 240.8,719.4  "
-   id="polygon2243" />
-	<g
-   id="g2245">
-		<text
-   transform="matrix(1 0 0 1 176.9671 745.5228)"
-   id="text2247"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2249">Current </tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2251">terminal</tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2253">building</tspan></text>
-
+<g id="colman_ferry_dock">
+	<path class="st74" d="M221.8,713.6c0,0.1-0.1,0.1-0.2,0.2l-2.1,0.1c-0.1,0-0.2,0.1-0.2,0.2l0.1,6.3c0,0.1-0.1,0.2-0.2,0.2l-0.6,0
+		c-0.1,0-0.2,0.1-0.2,0.2l0.1,2.2c0,0.1-0.1,0.2-0.2,0.2l-4.8,0.2c-0.1,0-0.2,0.1-0.2,0.2l0,0.7c0,0.1,0.1,0.2,0.2,0.2l4.1-0.2
+		c0.1,0,0.2,0.1,0.2,0.2l0,0.5c0,0.1-0.1,0.1-0.2,0.2l-4.3,0.2c-0.1,0-0.2,0.1-0.2,0.2l0,0.3c0,0.1,0.1,0.2,0.2,0.2l3.5-0.2
+		c0.1,0,0.2,0.1,0.2,0.2l0,0.4c0,0.1,0.1,0.2,0.2,0.2l1.5-0.1c0.1,0,0.2,0.1,0.2,0.2l0,0.6c0,0.1-0.1,0.2-0.2,0.2l-1.6,0l0,0.3
+		l-3.1,0.1c-0.1,0-0.2,0.1-0.2,0.2l0,0.1c0,0.1,0.1,0.2,0.2,0.2l3.8,0.1c0.1,0,0.2,0.1,0.2,0.2l0,0.3c0,0.1-0.1,0.2-0.2,0.2
+		l-4.1,0.2c-0.1,0-0.1,0.1-0.2,0.1l-0.1,0.4c0,0.1,0.1,0.2,0.2,0.2l4,0.2c0.1,0,0.2,0.1,0.2,0.2l0.2,4c0,0.1-0.1,0.2-0.2,0.2
+		l-5.6,0.4c-0.1,0-0.2,0.1-0.2,0.2l0,0.5c0,0.1,0.1,0.2,0.2,0.2l5.6-0.5c0.1,0,0.2,0.1,0.2,0.2l0,0.4c0,0.1,0,0.1-0.1,0.2l-4.1,0.9
+		c-0.1,0-0.1,0.1-0.1,0.2l0.1,0.5c0,0.1,0.1,0.1,0.2,0.1l4-0.5c0.1,0,0.2,0.1,0.2,0.2l0,0.3c0,0.1,0.1,0.2,0.2,0.2l1.3,0
+		c0.1,0,0.2,0.1,0.2,0.2l0.1,1.7l0.1,1.4c0,0.1,0.1,0.2,0.2,0.2l13.4-0.6c0.1,0,0.1,0,0.2,0.1l0.1,0.3c0,0.1,0,0.2-0.1,0.2l-0.6,0.1
+		c-0.1,0-0.1,0.1-0.1,0.2l0,1.1c0,0.1,0,0.1-0.1,0.1l-4.9,4.1c-0.1,0.1-0.2,0-0.2,0l0,0c-0.1-0.1-0.2-0.1-0.2,0l-3.5,2.8
+		c-0.1,0.1-0.1,0.2,0,0.2l0.8,0.8c0.1,0.1,0.2,0.1,0.2,0l3.4-2.8c0.1-0.1,0.1-0.2,0-0.2c-0.1-0.1-0.1-0.2,0-0.3l5.3-4l0.1,0.1
+		l12.4-0.2c0.1,0,0.1,0,0.1,0.1l0.5,0.6l1.3-0.2l-6.3-12.3l-10.7-17H221.8z"/>
+	<path class="st75" d="M219.4,714l-5,0.6c-0.1,0-0.2,0-0.2-0.1l0,0c0-0.1-0.1-0.1-0.2-0.1l-4.5,0.5c-0.1,0-0.2,0.1-0.1,0.2l0.2,1.1
+		c0,0.1,0.1,0.1,0.2,0.1l4.4-0.5c0.1,0,0.2-0.1,0.1-0.2l0,0c0-0.1,0-0.2,0.1-0.2l5-0.4"/>
+	<polygon class="st76" points="233.5,722.7 220.4,722.5 220.2,727.9 235.7,727.9 236.8,728 236.9,723.7 235.6,721.4 234.7,721.9 
+		233.2,719.4 232.8,719.6 234.3,722.1 	"/>
+	<polygon class="st77" points="237.4,731.4 238,731.1 237,729.7 236.6,730 	"/>
+	<polygon class="st77" points="231.6,718.1 232.4,717.6 231.5,716.1 230.6,716.7 	"/>
+	<polyline class="st76" points="238.3,732.4 238.3,732.4 238,733 237.8,733.6 237.6,734.2 237.4,734.7 237.2,735.3 237.1,735.8 
+		237,736.3 236.9,736.7 236.9,737.2 237.8,737.7 238.3,736.9 238,736.7 238.5,736 238.2,735.8 238.7,735.2 238.4,735 239.1,734.3 
+		238.8,734.1 239.6,733.2 238.7,731.8 	"/>
+	<polygon points="236.2,722.1 235.8,721.6 240.6,719 240.8,719.4 	"/>
+	<polygon points="242.5,717.6 242.2,717.2 259,707.2 259.2,707.6 	"/>
+	<polygon points="242.5,717.7 242.2,717.2 240.6,719 240.8,719.4 	"/>
+	<g>
+		<text transform="matrix(1 0 0 1 176.9671 745.5228)"><tspan x="0" y="0" class="st13 st63">Current </tspan><tspan x="0" y="9" class="st13 st63">terminal</tspan><tspan x="0" y="18" class="st13 st63">building</tspan></text>
 	</g>
-	<g
-   id="g2255">
-		<text
-   transform="matrix(1 0 0 1 224.7357 743.5582)"
-   id="text2257"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2259">Toll </tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2261">plaza</tspan></text>
-
+	<g>
+		<text transform="matrix(1 0 0 1 224.7357 743.5582)"><tspan x="0" y="0" class="st13 st63">Toll </tspan><tspan x="0" y="9" class="st13 st63">plaza</tspan></text>
 	</g>
-	<g
-   id="g2263">
-		<text
-   transform="matrix(1 0 0 1 140.0096 693.5366)"
-   id="text2265"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2267">Temporary </tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2269">passenger-only </tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2271">ferry dock</tspan></text>
-
+	<g>
+		<text transform="matrix(1 0 0 1 140.0096 693.5366)"><tspan x="0" y="0" class="st13 st63">Temporary </tspan><tspan x="0" y="9" class="st13 st63">passenger-only </tspan><tspan x="0" y="18" class="st13 st63">ferry dock</tspan></text>
 	</g>
-	<g
-   id="g2273">
-		<text
-   transform="matrix(1 0 0 1 254.587 723.3616)"
-   class="st13 st63"
-   id="text2275">Pedestrian bridge</text>
-
+	<g>
+		<text transform="matrix(1 0 0 1 254.587 723.3616)" class="st13 st63">Pedestrian bridge</text>
 	</g>
-	<polygon
-   class="st78"
-   points="204,740.8 204,744.2 225,726.8  "
-   id="polygon2277" />
-	<polygon
-   class="st78"
-   points="175.5,707.7 175.5,710.4 208.9,714.5  "
-   id="polygon2279" />
-	<polygon
-   class="st78"
-   points="253.5,718.2 253.5,720.6 245.5,715.9  "
-   id="polygon2281" />
-	<g
-   id="g2283">
-		<text
-   transform="matrix(1 0 0 1 138.3636 728.8014)"
-   class="st79 st80"
-   id="text2285">Colman Ferry Dock</text>
-
+	<polygon class="st78" points="204,740.8 204,744.2 225,726.8 	"/>
+	<polygon class="st78" points="175.5,707.7 175.5,710.4 208.9,714.5 	"/>
+	<polygon class="st78" points="253.5,718.2 253.5,720.6 245.5,715.9 	"/>
+	<g>
+		<text transform="matrix(1 0 0 1 138.3636 728.8014)" class="st79 st80">Colman Ferry Dock</text>
 	</g>
 </g>
-<g
-   id="new_rainier_tower">
-	<path
-   class="st81"
-   d="M268.5,627.3l2.8,4.2l0.2-0.2l0.5-0.3l1.5,2.3l-0.4,0.2l0.2,0.3l-0.1,0.4l0.1-0.1l0.2,0l2.9,4.5l0.1,0.3   l-4.6,2.7l0.3,0.4l-4.6,2.7l-3.6-5.6l0.6-0.3l-1.8-2.8l-0.5,0.3l-2.3-3.6l4.6-2.7l-0.1-0.1l-0.2-0.3L268.5,627.3z M272.6,634.8   l-0.4-0.1l-0.9-1.4L270,634l-0.4,1.3l0.6,0.9L272.6,634.8z"
-   id="path2288" />
-	<polygon
-   class="st76"
-   points="269.4,626.9 259.4,632.7 262.7,637.6 272.5,631.8  "
-   id="polygon2290" />
-	<text
-   transform="matrix(1 0 0 1 236.3125 600.1769)"
-   id="text2292"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2294">New Rainier </tspan><tspan
-     x="-5.2"
-     y="9"
-     class="st13 st63"
-     id="tspan2296">Square building</tspan><tspan
-     x="11.1"
-     y="18"
-     class="st13 st63"
-     id="tspan2298">(2020)</tspan></text>
-
-	<g
-   id="g2300">
-		<text
-   transform="matrix(1 0 0 1 208.5036 645.7416)"
-   id="text2302"><tspan
-     x="0"
-     y="0"
-     class="st52 st63"
-     id="tspan2304">Rainier Tower</tspan><tspan
-     x="0"
-     y="9"
-     class="st52 st63"
-     id="tspan2306">(1977)</tspan></text>
-
+<g id="new_rainier_tower">
+	<path class="st81" d="M268.5,627.3l2.8,4.2l0.2-0.2l0.5-0.3l1.5,2.3l-0.4,0.2l0.2,0.3l-0.1,0.4l0.1-0.1l0.2,0l2.9,4.5l0.1,0.3
+		l-4.6,2.7l0.3,0.4l-4.6,2.7l-3.6-5.6l0.6-0.3l-1.8-2.8l-0.5,0.3l-2.3-3.6l4.6-2.7l-0.1-0.1l-0.2-0.3L268.5,627.3z M272.6,634.8
+		l-0.4-0.1l-0.9-1.4L270,634l-0.4,1.3l0.6,0.9L272.6,634.8z"/>
+	<polygon class="st76" points="269.4,626.9 259.4,632.7 262.7,637.6 272.5,631.8 	"/>
+	<text transform="matrix(1 0 0 1 236.3125 600.1769)"><tspan x="0" y="0" class="st13 st63">New Rainier </tspan><tspan x="-5.2" y="9" class="st13 st63">Square building</tspan><tspan x="11.1" y="18" class="st13 st63">(2020)</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 208.5036 645.7416)"><tspan x="0" y="0" class="st52 st63">Rainier Tower</tspan><tspan x="0" y="9" class="st52 st63">(1977)</tspan></text>
 	</g>
-	<polygon
-   class="st82"
-   points="276.6,638.8 273.5,634.2 268.3,637.1 271.6,642.1 276.7,639.2  "
-   id="polygon2308" />
-	<polygon
-   points="256.4,642.5 256.4,644.8 273.1,638.8  "
-   id="polygon2310" />
-	<polygon
-   points="256.9,619.8 260.2,619.8 264.9,632.2  "
-   id="polygon2312" />
-	<text
-   transform="matrix(0.4816 0.8764 -0.8764 0.4816 285.9113 649.3079)"
-   class="st69 st13 st66"
-   id="text2314">5TH AVE.</text>
-
+	<polygon class="st82" points="276.6,638.8 273.5,634.2 268.3,637.1 271.6,642.1 276.7,639.2 	"/>
+	<polygon points="256.4,642.5 256.4,644.8 273.1,638.8 	"/>
+	<polygon points="256.9,619.8 260.2,619.8 264.9,632.2 	"/>
+	<text transform="matrix(0.4816 0.8764 -0.8764 0.4816 280.3703 639.43)" class="st69 st13 st66">5TH AVE.</text>
 </g>
-<g
-   id="first_ave_streetcar_route">
-	<path
-   class="st83"
-   d="M236.6,526.6l-2.1-29.6l1.1-32.5l10.7-0.5c0,0,2.6-11.1,2.1-15.7c-0.5-4.7,2.2-55.5,2.2-55.5"
-   id="path2317" />
-	<path
-   class="st84"
-   d="M295.2,369.5l-19,21.1L272,393c0,0-30-1.3-33.2-1.3c-3.2,0-3.3,5.4-3.3,5.4l-3.7,99l10.3,74.6l-0.2,10.3"
-   id="path2319" />
-	<path
-   class="st85"
-   d="M241.7,544.1c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C240.4,541.2,241.7,542.5,241.7,544.1z"
-   id="path2321" />
-	<path
-   class="st85"
-   d="M236.3,506.4c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C234.9,503.4,236.3,504.8,236.3,506.4z"
-   id="path2323" />
-	<path
-   class="st85"
-   d="M236.4,454.4c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C235,451.5,236.4,452.8,236.4,454.4   z"
-   id="path2325" />
-	<path
-   class="st85"
-   d="M237.5,415.5c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C236.2,412.6,237.5,413.9,237.5,415.5z"
-   id="path2327" />
-	<path
-   class="st85"
-   d="M251.3,454.9c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C250,452,251.3,453.3,251.3,454.9z"
-   id="path2329" />
-	<path
-   class="st85"
-   d="M252.4,428.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C251,425.7,252.4,427,252.4,428.6z"
-   id="path2331" />
-	<path
-   class="st85"
-   d="M297.9,369.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C296.6,366.7,297.9,368,297.9,369.6   z"
-   id="path2333" />
-	<path
-   class="st86"
-   d="M239.6,576.8l-35.9,38.8l67.5,113.4l-0.8,44.1c0,0,0,2.9,1.5,2.9s10,0.3,10,0.3"
-   id="path2335" />
-	<path
-   class="st85"
-   d="M244.1,581c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C242.7,578.1,244.1,579.4,244.1,581z"
-   id="path2337" />
-	<path
-   class="st87"
-   d="M269.6,722.2c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C268.3,719.3,269.6,720.6,269.6,722.2z"
-   id="path2339" />
-	<path
-   class="st87"
-   d="M250.9,691.3c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C249.5,688.4,250.9,689.7,250.9,691.3z"
-   id="path2341" />
-	<path
-   class="st87"
-   d="M241.9,576.9c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C240.6,574,241.9,575.3,241.9,576.9   z"
-   id="path2343" />
-	<path
-   class="st87"
-   d="M214.9,629.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C213.5,626.6,214.9,628,214.9,629.6   z"
-   id="path2345" />
-	<path
-   class="st87"
-   d="M227.8,592.8c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C226.4,589.9,227.8,591.2,227.8,592.8z"
-   id="path2347" />
-	<polyline
-   class="st84"
-   points="283.8,776.1 467.9,779.4 470,744.3 404.6,742.8 408.2,504.3  "
-   id="polyline2349" />
-	<path
-   class="st85"
-   d="M410.6,503.8c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C409.3,500.8,410.6,502.2,410.6,503.8z"
-   id="path2351" />
-	<path
-   class="st85"
-   d="M411.4,556.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C410.1,553.7,411.4,555,411.4,556.6   z"
-   id="path2353" />
-	<path
-   class="st85"
-   d="M409.7,623.4c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9s1.3-2.9,3-2.9C408.4,620.4,409.7,621.8,409.7,623.4z"
-   id="path2355" />
-	<path
-   class="st85"
-   d="M408.8,687.8c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C407.5,684.9,408.8,686.2,408.8,687.8z"
-   id="path2357" />
-	<path
-   class="st85"
-   d="M416.9,742.1c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C415.6,739.2,416.9,740.5,416.9,742.1z"
-   id="path2359" />
-	<path
-   class="st85"
-   d="M473.4,759.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C472.1,756.8,473.4,758.1,473.4,759.7z"
-   id="path2361" />
-	<path
-   class="st85"
-   d="M456,779.3c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C454.7,776.4,456,777.7,456,779.3z"
-   id="path2363" />
-	<path
-   class="st85"
-   d="M370.8,777.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C369.5,774.8,370.8,776.1,370.8,777.7z"
-   id="path2365" />
-	<path
-   class="st85"
-   d="M344.8,776.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C343.5,773.8,344.8,775.1,344.8,776.7z"
-   id="path2367" />
-	<path
-   class="st85"
-   d="M285.7,776.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9   C284.4,773.8,285.7,775.1,285.7,776.7z"
-   id="path2369" />
-	<text
-   transform="matrix(0.688 -0.7257 0.7257 0.688 246.4362 565.0606)"
-   class="st69 st64 st66"
-   id="text2371">STEWART ST.</text>
-
-	<text
-   transform="matrix(1 3.170000e-03 -3.170000e-03 1 273.4014 773.0129)"
-   class="st69 st64 st67"
-   id="text2373">S. JACKSON ST.</text>
-
-	<text
-   transform="matrix(0.5373 0.8434 -0.8434 0.5373 241.2698 676.3901)"
-   class="st69 st64 st66"
-   id="text2375">1ST AVE.</text>
-
-	<text
-   transform="matrix(1 0 0 1 167.373 658.655)"
-   id="text2377"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st53"
-     id="tspan2379">First Avenue </tspan><tspan
-     x="0"
-     y="12"
-     class="st69 st13 st53"
-     id="tspan2381">Streetcar</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 376.789 572.155)"
-   id="text2383"><tspan
-     x="0"
-     y="0"
-     class="st50 st13 st63"
-     id="tspan2385">Existing</tspan><tspan
-     x="-1.8"
-     y="9"
-     class="st50 st13 st63"
-     id="tspan2387">First Hill</tspan><tspan
-     x="-4.4"
-     y="18"
-     class="st50 st13 st63"
-     id="tspan2389">Streetcar</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 239.373 491.155)"
-   id="text2391"><tspan
-     x="0"
-     y="0"
-     class="st50 st13 st63"
-     id="tspan2393">Existing</tspan><tspan
-     x="0"
-     y="9"
-     class="st50 st13 st63"
-     id="tspan2395">South</tspan><tspan
-     x="0"
-     y="18"
-     class="st50 st13 st63"
-     id="tspan2397">Lake Union</tspan><tspan
-     x="0"
-     y="27"
-     class="st50 st13 st63"
-     id="tspan2399">Streetcar</tspan></text>
-
-	<polygon
-   class="st69"
-   points="209.3,666.3 209.3,670.3 232.3,664.3  "
-   id="polygon2401" />
-	<g
-   id="g2403">
-		<text
-   transform="matrix(1 3.170000e-03 -3.170000e-03 1 273.4014 739.0129)"
-   class="st69 st64 st67"
-   id="text2405">YESLER WAY</text>
-
+<g id="first_ave_streetcar_route">
+	<path class="st83" d="M236.6,526.6l-2.1-29.6l1.1-32.5l10.7-0.5c0,0,2.6-11.1,2.1-15.7c-0.5-4.7,2.2-55.5,2.2-55.5"/>
+	<path class="st84" d="M295.2,369.5l-19,21.1L272,393c0,0-30-1.3-33.2-1.3c-3.2,0-3.3,5.4-3.3,5.4l-3.7,99l10.3,74.6l-0.2,10.3"/>
+	<path class="st85" d="M241.7,544.1c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C240.4,541.2,241.7,542.5,241.7,544.1z"/>
+	<path class="st85" d="M236.3,506.4c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C234.9,503.4,236.3,504.8,236.3,506.4z"/>
+	<path class="st85" d="M236.4,454.4c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C235,451.5,236.4,452.8,236.4,454.4
+		z"/>
+	<path class="st85" d="M237.5,415.5c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C236.2,412.6,237.5,413.9,237.5,415.5z"/>
+	<path class="st85" d="M251.3,454.9c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C250,452,251.3,453.3,251.3,454.9z"
+		/>
+	<path class="st85" d="M252.4,428.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C251,425.7,252.4,427,252.4,428.6z"
+		/>
+	<path class="st85" d="M297.9,369.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C296.6,366.7,297.9,368,297.9,369.6
+		z"/>
+	<path class="st86" d="M239.6,576.8l-35.9,38.8l67.5,113.4l-0.8,44.1c0,0,0,2.9,1.5,2.9s10,0.3,10,0.3"/>
+	<path class="st85" d="M244.1,581c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C242.7,578.1,244.1,579.4,244.1,581z"
+		/>
+	<path class="st87" d="M269.6,722.2c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C268.3,719.3,269.6,720.6,269.6,722.2z"/>
+	<path class="st87" d="M250.9,691.3c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C249.5,688.4,250.9,689.7,250.9,691.3z"/>
+	<path class="st87" d="M241.9,576.9c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C240.6,574,241.9,575.3,241.9,576.9
+		z"/>
+	<path class="st87" d="M214.9,629.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C213.5,626.6,214.9,628,214.9,629.6
+		z"/>
+	<path class="st87" d="M227.8,592.8c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C226.4,589.9,227.8,591.2,227.8,592.8z"/>
+	<polyline class="st84" points="283.8,776.1 467.9,779.4 470,744.3 404.6,742.8 408.2,504.3 	"/>
+	<path class="st85" d="M410.6,503.8c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C409.3,500.8,410.6,502.2,410.6,503.8z"/>
+	<path class="st85" d="M411.4,556.6c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C410.1,553.7,411.4,555,411.4,556.6
+		z"/>
+	<path class="st85" d="M409.7,623.4c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9s1.3-2.9,3-2.9C408.4,620.4,409.7,621.8,409.7,623.4z"/>
+	<path class="st85" d="M408.8,687.8c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C407.5,684.9,408.8,686.2,408.8,687.8z"/>
+	<path class="st85" d="M416.9,742.1c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C415.6,739.2,416.9,740.5,416.9,742.1z"/>
+	<path class="st85" d="M473.4,759.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C472.1,756.8,473.4,758.1,473.4,759.7z"/>
+	<path class="st85" d="M456,779.3c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9C454.7,776.4,456,777.7,456,779.3z"/>
+	<path class="st85" d="M370.8,777.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C369.5,774.8,370.8,776.1,370.8,777.7z"/>
+	<path class="st85" d="M344.8,776.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C343.5,773.8,344.8,775.1,344.8,776.7z"/>
+	<path class="st85" d="M285.7,776.7c0,1.6-1.3,2.9-3,2.9c-1.7,0-3-1.3-3-2.9c0-1.6,1.3-2.9,3-2.9
+		C284.4,773.8,285.7,775.1,285.7,776.7z"/>
+	<text transform="matrix(0.688 -0.7257 0.7257 0.688 246.4362 565.0606)" class="st69 st64 st66">STEWART ST.</text>
+	<text transform="matrix(1 3.170000e-03 -3.170000e-03 1 273.4014 773.0129)" class="st69 st64 st67">S. JACKSON ST.</text>
+	<text transform="matrix(0.4992 0.8665 -0.8665 0.4992 234.532 663.9695)" class="st69 st64 st66">1ST AVE.</text>
+	<text transform="matrix(1 0 0 1 167.373 658.655)"><tspan x="0" y="0" class="st69 st13 st53">First Avenue </tspan><tspan x="0" y="12" class="st69 st13 st53">Streetcar</tspan></text>
+	<text transform="matrix(1 0 0 1 376.789 572.155)"><tspan x="0" y="0" class="st50 st13 st63">Existing</tspan><tspan x="-1.8" y="9" class="st50 st13 st63">First Hill</tspan><tspan x="-4.4" y="18" class="st50 st13 st63">Streetcar</tspan></text>
+	<text transform="matrix(1 0 0 1 239.373 491.155)"><tspan x="0" y="0" class="st50 st13 st63">Existing</tspan><tspan x="0" y="9" class="st50 st13 st63">South</tspan><tspan x="0" y="18" class="st50 st13 st63">Lake Union</tspan><tspan x="0" y="27" class="st50 st13 st63">Streetcar</tspan></text>
+	<polygon class="st69" points="209.3,666.3 209.3,670.3 232.3,664.3 	"/>
+	<g>
+		<text transform="matrix(1 3.170000e-03 -3.170000e-03 1 273.4014 739.0129)" class="st69 st64 st67">YESLER WAY</text>
 	</g>
 </g>
-<g
-   id="fourth_ave_bikelane">
-	<polyline
-   class="st88"
-   points="322.2,764.3 322.9,740.8 311.3,720.6 232.6,589.3 140.6,506.3 147.1,498.6 146.5,495.9  "
-   id="polyline2408" />
-	<text
-   transform="matrix(0.4816 0.8764 -0.8764 0.4816 274.9424 655.8091)"
-   class="st69 st64 st66"
-   id="text2410">4TH AVE.</text>
-
-	<text
-   transform="matrix(0.7483 0.6633 -0.6633 0.7483 182.2417 540.8804)"
-   class="st69 st64 st66"
-   id="text2412">4TH AVE.</text>
-
+<g id="fourth_ave_bikelane">
+	<polyline class="st88" points="322.2,764.3 322.9,740.8 311.3,720.6 232.6,589.3 140.6,506.3 147.1,498.6 146.5,495.9 	"/>
+	<text transform="matrix(0.4816 0.8764 -0.8764 0.4816 269.2803 645.9312)" class="st69 st64 st66">4TH AVE.</text>
+	<text transform="matrix(0.7483 0.6633 -0.6633 0.7483 182.2417 540.8804)" class="st69 st64 st66">4TH AVE.</text>
 </g>
-<g
-   id="fifth_ave_bus_lane">
-	<polyline
-   class="st89"
-   points="316.5,677.6 316.1,676.8 314.9,674.6 313.4,671.8 313.1,671.3  "
-   id="polyline2415" />
-	<path
-   class="st90"
-   d="M315.2,701.5l-12-19.9l8.7-6c0,0,0.1-0.1,0.2-0.4"
-   id="path2417" />
-	<line
-   class="st90"
-   x1="271.1"
-   y1="603.9"
-   x2="283.8"
-   y2="596.9"
-   id="line2419" />
-	<polygon
-   class="st91"
-   points="280.8,597 282.5,599.2 285.1,596  "
-   id="polygon2421" />
-	<polygon
-   class="st91"
-   points="316.8,707.2 318.9,705.4 315.8,702.6  "
-   id="polygon2423" />
-	<polygon
-   class="st91"
-   points="280,558.8 281.7,561 284.3,557.8  "
-   id="polygon2425" />
-	<path
-   class="st90"
-   d="M280.7,620.2c-13.1-22.2-26.5-44.8-26.5-44.8l27.8-15.7"
-   id="path2427" />
-	<path
-   class="st92"
-   d="M312.2,675.2c0.2-0.5-1.4-4.5-0.7-2.9c0.3,0.7-13.7-22.9-30.9-52.1"
-   id="path2429" />
-	<path
-   class="st93"
-   d="M335.4,765.8v-27.3c0,0-0.2-3.5-2-6c-1.7-2.5-17.2-28.9-17.2-28.9"
-   id="path2431" />
-	<polygon
-   class="st94"
-   points="281.5,624.4 283.5,622.6 280.5,619.8  "
-   id="polygon2433" />
-	<text
-   transform="matrix(2.459000e-02 -0.9997 0.9997 2.459000e-02 333.1569 767.9046)"
-   class="st69 st64 st66"
-   id="text2435">5TH AVE. S.</text>
-
-	<text
-   transform="matrix(0.4816 0.8764 -0.8764 0.4816 297.5353 643.3472)"
-   class="st69 st64 st66"
-   id="text2437">6TH AVE.</text>
-
-	<text
-   transform="matrix(0.4816 0.8764 -0.8764 0.4816 285.9113 649.3079)"
-   class="st69 st64 st66"
-   id="text2439">5TH AVE.</text>
-
-	<text
-   transform="matrix(0.8744 -0.4852 0.4852 0.8744 253.2343 573.2628)"
-   class="st69 st64 st66"
-   id="text2441">OLIVE WAY</text>
-
-	<text
-   transform="matrix(0.8744 -0.4852 0.4852 0.8744 271.5195 600.9279)"
-   class="st69 st64 st66"
-   id="text2443">PIKE ST.</text>
-
-	<text
-   transform="matrix(0.8709 -0.4915 0.4915 0.8709 287.9213 715.4792)"
-   class="st69 st64 st66"
-   id="text2445">CHERRY ST.</text>
-
+<g id="fifth_ave_bus_lane">
+	<polyline class="st89" points="316.5,677.6 316.1,676.8 314.9,674.6 313.4,671.8 313.1,671.3 	"/>
+	<path class="st90" d="M315.2,701.5l-12-19.9l8.7-6c0,0,0.1-0.1,0.2-0.4"/>
+	<line class="st90" x1="271.1" y1="603.9" x2="283.8" y2="596.9"/>
+	<polygon class="st91" points="280.8,597 282.5,599.2 285.1,596 	"/>
+	<polygon class="st91" points="316.8,707.2 318.9,705.4 315.8,702.6 	"/>
+	<polygon class="st91" points="280,558.8 281.7,561 284.3,557.8 	"/>
+	<path class="st90" d="M280.7,620.2c-13.1-22.2-26.5-44.8-26.5-44.8l27.8-15.7"/>
+	<path class="st92" d="M312.2,675.2c0.2-0.5-1.4-4.5-0.7-2.9c0.3,0.7-13.7-22.9-30.9-52.1"/>
+	<path class="st93" d="M335.4,765.8v-27.3c0,0-0.2-3.5-2-6c-1.7-2.5-17.2-28.9-17.2-28.9"/>
+	<polygon class="st94" points="281.5,624.4 283.5,622.6 280.5,619.8 	"/>
+	<text transform="matrix(2.459000e-02 -0.9997 0.9997 2.459000e-02 333.1569 767.9046)" class="st69 st64 st66">5TH AVE. S.</text>
+	<text transform="matrix(0.4816 0.8764 -0.8764 0.4816 291.8732 633.4693)" class="st69 st64 st66">6TH AVE.</text>
+	<text transform="matrix(0.4816 0.8764 -0.8764 0.4816 280.2492 639.5504)" class="st69 st64 st66">5TH AVE.</text>
+	<text transform="matrix(0.8744 -0.4852 0.4852 0.8744 253.2343 573.2628)" class="st69 st64 st66">OLIVE WAY</text>
+	<text transform="matrix(0.8744 -0.4852 0.4852 0.8744 271.5195 600.9279)" class="st69 st64 st66">PIKE ST.</text>
+	<text transform="matrix(0.8709 -0.4915 0.4915 0.8709 287.9213 715.4792)" class="st69 st64 st66">CHERRY ST.</text>
 </g>
-<g
-   id="convention_bus_station">
-	<polygon
-   class="st95"
-   points="296.3,568.9 317.5,556.8 309.8,544.2 288.9,556.5  "
-   id="polygon2448" />
-	<polygon
-   class="st96"
-   points="295.1,566.1 304.5,560.6 301.9,556.5 292.4,562  "
-   id="polygon2450" />
-	<polygon
-   class="st97"
-   points="293.6,544.4 296.3,549 287.4,554.4 286.3,552.5  "
-   id="polygon2452" />
-	<polygon
-   class="st47"
-   points="302.6,553.4 306.6,551 304.4,547.3 300.4,549.7  "
-   id="polygon2454" />
-	<path
-   class="st47"
-   d="M306.6,551l1.7,2.7l5.3-3.1l0.9,1.7l-6.1,3.9c0,0-0.9,0.5-1.6,0.3c-1.2-0.3-1.8-1.6-1.8-1.6l-1.2,0.7   l-1.3-2.2L306.6,551z"
-   id="path2456" />
-	<path
-   class="st98"
-   d="M314.7,553.9c-1.3,1.5-3,3.2-5.5,4.6c-3.8,2.1-11.8,7-14.1,8.2"
-   id="path2458" />
-	<polygon
-   class="st47"
-   points="308.5,553.1 305,547.3 309.5,544.7 312.9,550.5  "
-   id="polygon2460" />
-	<g
-   id="g2462">
-		<polygon
-   class="st97"
-   points="298.7,547.7 295.5,542.6 302.8,534.3 307.7,542.2   "
-   id="polygon2464" />
+<g id="convention_bus_station">
+	<polygon class="st95" points="296.3,568.9 317.5,556.8 309.8,544.2 288.9,556.5 	"/>
+	<polygon class="st96" points="295.1,566.1 304.5,560.6 301.9,556.5 292.4,562 	"/>
+	<polygon class="st97" points="293.6,544.4 296.3,549 287.4,554.4 286.3,552.5 	"/>
+	<polygon class="st47" points="302.6,553.4 306.6,551 304.4,547.3 300.4,549.7 	"/>
+	<path class="st47" d="M306.6,551l1.7,2.7l5.3-3.1l0.9,1.7l-6.1,3.9c0,0-0.9,0.5-1.6,0.3c-1.2-0.3-1.8-1.6-1.8-1.6l-1.2,0.7
+		l-1.3-2.2L306.6,551z"/>
+	<path class="st98" d="M314.7,553.9c-1.3,1.5-3,3.2-5.5,4.6c-3.8,2.1-11.8,7-14.1,8.2"/>
+	<polygon class="st47" points="308.5,553.1 305,547.3 309.5,544.7 312.9,550.5 	"/>
+	<g>
+		<polygon class="st97" points="298.7,547.7 295.5,542.6 302.8,534.3 307.7,542.2 		"/>
 	</g>
-	<g
-   id="g2466">
-		<path
-   class="st99"
-   d="M309.1,545.7l7.1,11.3l-19.9,11.3l-6.5-11.4L309.1,545.7 M309.4,544.6l-20.6,12l7.3,12.7l21.2-12.1    L309.4,544.6L309.4,544.6z"
-   id="path2468" />
+	<g>
+		<path class="st99" d="M309.1,545.7l7.1,11.3l-19.9,11.3l-6.5-11.4L309.1,545.7 M309.4,544.6l-20.6,12l7.3,12.7l21.2-12.1
+			L309.4,544.6L309.4,544.6z"/>
 	</g>
-	<polygon
-   class="st100"
-   points="317.7,557.3 295.9,569.6 286.1,553 302.8,534.3  "
-   id="polygon2470" />
-	<g
-   id="g2472">
-		<g
-   id="g2474">
-			<path
-   class="st101"
-   d="M290,559.2c0,0,0.1,0,0.2-0.1"
-   id="path2476" />
-			<path
-   class="st102"
-   d="M290.6,558.8c1-0.6,3.1-1.6,4-0.8c1.2,1.2,2.1,2.9,2.2,3.6c0.1,0.6-0.6,2.6-1.1,3.5"
-   id="path2478" />
-			<path
-   class="st101"
-   d="M295.5,565.4c-0.1,0.1-0.1,0.1-0.1,0.2"
-   id="path2480" />
+	<polygon class="st100" points="317.7,557.3 295.9,569.6 286.1,553 302.8,534.3 	"/>
+	<g>
+		<g>
+			<path class="st101" d="M290,559.2c0,0,0.1,0,0.2-0.1"/>
+			<path class="st102" d="M290.6,558.8c1-0.6,3.1-1.6,4-0.8c1.2,1.2,2.1,2.9,2.2,3.6c0.1,0.6-0.6,2.6-1.1,3.5"/>
+			<path class="st101" d="M295.5,565.4c-0.1,0.1-0.1,0.1-0.1,0.2"/>
 		</g>
 	</g>
-	<line
-   class="st103"
-   x1="282.4"
-   y1="539.3"
-   x2="291.6"
-   y2="558"
-   id="line2482" />
-	<line
-   class="st103"
-   x1="316.6"
-   y1="527.5"
-   x2="314.2"
-   y2="554.8"
-   id="line2484" />
-	<g
-   id="g2486">
-		<text
-   transform="matrix(1 0 0 1 249.6159 528.4282)"
-   id="text2488"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2490">Temporary</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2492">ramp loop</tspan></text>
-
+	<line class="st103" x1="282.4" y1="539.3" x2="291.6" y2="558"/>
+	<line class="st103" x1="316.6" y1="527.5" x2="314.2" y2="554.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 249.6159 528.4282)"><tspan x="0" y="0" class="st13 st63">Temporary</tspan><tspan x="0" y="9" class="st13 st63">ramp loop</tspan></text>
 	</g>
-	<g
-   id="g2494">
-		<text
-   transform="matrix(1 0 0 1 238.5464 584.9648)"
-   id="text2496"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2498">Downtown transit </tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2500">tunnel exit</tspan></text>
-
+	<g>
+		<text transform="matrix(1 0 0 1 238.5464 584.9648)"><tspan x="0" y="0" class="st13 st63">Downtown transit </tspan><tspan x="0" y="9" class="st13 st63">tunnel exit</tspan></text>
 	</g>
-	<g
-   id="g2502">
-		<text
-   transform="matrix(1 0 0 1 313.3197 498.0953)"
-   id="text2504"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2506">Bus access to</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2508">I-5 express </tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2510">lanes will </tspan><tspan
-     x="0"
-     y="27"
-     class="st13 st63"
-     id="tspan2512">close</tspan></text>
-
+	<g>
+		<text transform="matrix(1 0 0 1 313.3197 498.0953)"><tspan x="0" y="0" class="st13 st63">Bus access to</tspan><tspan x="0" y="9" class="st13 st63">I-5 express </tspan><tspan x="0" y="18" class="st13 st63">lanes will </tspan><tspan x="0" y="27" class="st13 st63">close</tspan></text>
 	</g>
-	<g
-   id="g2514">
-		<text
-   transform="matrix(1 0 0 1 314.4849 571.1414)"
-   id="text2516"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2518">Existing Convention</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2520">Place Station</tspan></text>
-
+	<g>
+		<text transform="matrix(1 0 0 1 314.4849 571.1414)"><tspan x="0" y="0" class="st13 st63">Existing Convention</tspan><tspan x="0" y="9" class="st13 st63">Place Station</tspan></text>
 	</g>
-	<line
-   class="st103"
-   x1="294.9"
-   y1="567"
-   x2="290.1"
-   y2="578.5"
-   id="line2522" />
-	<line
-   class="st103"
-   x1="300.6"
-   y1="559.8"
-   x2="312.7"
-   y2="567.6"
-   id="line2524" />
+	<line class="st103" x1="294.9" y1="567" x2="290.1" y2="578.5"/>
+	<line class="st103" x1="300.6" y1="559.8" x2="312.7" y2="567.6"/>
 </g>
-<g
-   id="highway_99_closure">
-	<polygon
-   class="st104"
-   points="171.8,435.8 179.8,421.3 182.1,410.8 189.3,411.3 188.8,425.6 184.8,432.6 176.8,445.1 176.2,460.1    170.6,460.1 170.6,444.3  "
-   id="polygon2527" />
-	<path
-   class="st105"
-   d="M184.6,426.3c1.3-2.8,1.8-1.3,2-3.2c0.2-1.7,1.3-3.1,1.2-5.5l-2-5.8"
-   id="path2529" />
-	<path
-   class="st15"
-   d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l1.8,0.8v7.8l-1.2,25.5l-3.8,25.4l-4.7,0.5   l-8,18.7l-9.8,11.5l-1.4,4.6l-20.9-0.2l10.2-45.3l20.8-55.8v-17.5L257.5,788.5z"
-   id="path2531" />
-	<path
-   class="st104"
-   d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l2.8,0.7v7.8h-6v51.2h-2.5l-9.8,20h-5.2   l-6.3,15.2h-4.7l11.5-44.8l3.3-56.3v-17.5L257.5,788.5z"
-   id="path2533" />
-	<path
-   class="st106"
-   d="M244.8,881.2c-3,8.6-5.8,16.8-5.8,16.8l-4.2,10.7"
-   id="path2535" />
-	<path
-   class="st107"
-   d="M268.8,815.7l-14.8,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3c-0.2,0.8-3.3,10-6.3,18.9"
-   id="path2537" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2539" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2541" />
-	<path
-   class="st108"
-   d="M257.4,788.1l0.2-36.9l-59.3-103.6c0,0-7.5-12.1-22.5-27c-15-14.9-26.6-26.5-30-38.1   c-3.3-11.6-4.3-17.8-4.3-17.8l-0.3-2.6l0.8-1.8"
-   id="path2543" />
-	<path
-   class="st105"
-   d="M185.3,410.9l-0.3,3.2c0,0-1.3,6.3-3.8,9.3c-2.3,2.8-7.8,9.1-8.7,21.2"
-   id="path2545" />
-	<text
-   transform="matrix(1 0 0 1 203.6049 825.9456)"
-   id="text2547"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2549">South portal</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2551">Highway 99 </tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2553">tunnel</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 148.5825 671.0422)"
-   class="st13 st63"
-   id="text2555">Viaduct closed</text>
-
-	<polyline
-   class="st107"
-   points="247.1,882.3 249.2,877 252.8,866 254.7,858.3  "
-   id="polyline2557" />
-	<line
-   class="st106"
-   x1="236.7"
-   y1="908.7"
-   x2="247.1"
-   y2="882.3"
-   id="line2559" />
-	<path
-   class="st107"
-   d="M243.9,868.9l3.1-2.9c0,0,1.7-3.2,2.3-6.5c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"
-   id="path2561" />
-	<path
-   class="st109"
-   d="M233,908.9l0.7-3.4c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l2.9-2.7"
-   id="path2563" />
-	<path
-   class="st107"
-   d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"
-   id="path2565" />
-	<path
-   class="st107"
-   d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"
-   id="path2567" />
-	<path
-   class="st107"
-   d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"
-   id="path2569" />
-	<path
-   class="st107"
-   d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.9,20.2-7.9,20.2l0.1,10.9"
-   id="path2571" />
-	<path
-   class="st110"
-   d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"
-   id="path2573" />
-	<line
-   class="st106"
-   x1="248.2"
-   y1="882.3"
-   x2="240.7"
-   y2="899.2"
-   id="line2575" />
-	<polyline
-   class="st107"
-   points="251.1,875.5 250.2,877.8 248.2,882.3  "
-   id="polyline2577" />
-	<path
-   class="st111"
-   d="M257.1,816.3l2.4,24.5c0,0-0.3,8.2-1.3,11.5c-1,3.3-5,18.2-5,18.2l-2,5"
-   id="path2579" />
-	<path
-   class="st107"
-   d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l0.1,1"
-   id="path2581" />
-	<path
-   class="st112"
-   d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"
-   id="path2583" />
-	<path
-   class="st109"
-   d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"
-   id="path2585" />
-	<line
-   class="st109"
-   x1="242.3"
-   y1="902.8"
-   x2="252.5"
-   y2="877.2"
-   id="line2587" />
-	<g
-   id="g2589">
-		<g
-   id="g2591">
-			<line
-   class="st113"
-   x1="142.8"
-   y1="559.7"
-   x2="143.4"
-   y2="558.9"
-   id="line2593" />
-			<polyline
-   class="st114"
-   points="144.8,557.4 184,512.7 184.2,499.4    "
-   id="polyline2595" />
-			<line
-   class="st113"
-   x1="184.2"
-   y1="498.4"
-   x2="184.2"
-   y2="497.4"
-   id="line2597" />
+<g id="highway_99_closure">
+	<polygon class="st104" points="171.8,435.8 179.8,421.3 182.1,410.8 189.3,411.3 188.8,425.6 184.8,432.6 176.8,445.1 176.2,460.1 
+		170.6,460.1 170.6,444.3 	"/>
+	<path class="st105" d="M184.6,426.3c1.3-2.8,1.8-1.3,2-3.2c0.2-1.7,1.3-3.1,1.2-5.5l-2-5.8"/>
+	<path class="st15" d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l1.8,0.8v7.8l-1.2,25.5l-3.8,25.4l-4.7,0.5
+		l-8,18.7l-9.8,11.5l-1.4,4.6l-20.9-0.2l10.2-45.3l20.8-55.8v-17.5L257.5,788.5z"/>
+	<path class="st104" d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l2.8,0.7v7.8h-6v51.2h-2.5l-9.8,20h-5.2
+		l-6.3,15.2h-4.7l11.5-44.8l3.3-56.3v-17.5L257.5,788.5z"/>
+	<path class="st106" d="M244.8,881.2c-3,8.6-5.8,16.8-5.8,16.8l-4.2,10.7"/>
+	<path class="st107" d="M268.8,815.7l-14.8,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3c-0.2,0.8-3.3,10-6.3,18.9"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<path class="st108" d="M257.4,788.1l0.2-36.9l-59.3-103.6c0,0-7.5-12.1-22.5-27c-15-14.9-26.6-26.5-30-38.1
+		c-3.3-11.6-4.3-17.8-4.3-17.8l-0.3-2.6l0.8-1.8"/>
+	<path class="st105" d="M185.3,410.9l-0.3,3.2c0,0-1.3,6.3-3.8,9.3c-2.3,2.8-7.8,9.1-8.7,21.2"/>
+	<text transform="matrix(1 0 0 1 203.6049 825.9456)"><tspan x="0" y="0" class="st13 st63">South portal</tspan><tspan x="0" y="9" class="st13 st63">Highway 99 </tspan><tspan x="0" y="18" class="st13 st63">tunnel</tspan></text>
+	<text transform="matrix(1 0 0 1 148.5825 671.0422)" class="st13 st63">Viaduct closed</text>
+	<polyline class="st107" points="247.1,882.3 249.2,877 252.8,866 254.7,858.3 	"/>
+	<line class="st106" x1="236.7" y1="908.7" x2="247.1" y2="882.3"/>
+	<path class="st107" d="M243.9,868.9l3.1-2.9c0,0,1.7-3.2,2.3-6.5c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"/>
+	<path class="st109" d="M233,908.9l0.7-3.4c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l2.9-2.7"/>
+	<path class="st107" d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"/>
+	<path class="st107" d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"/>
+	<path class="st107" d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"/>
+	<path class="st107" d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.9,20.2-7.9,20.2l0.1,10.9"
+		/>
+	<path class="st110" d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"/>
+	<line class="st106" x1="248.2" y1="882.3" x2="240.7" y2="899.2"/>
+	<polyline class="st107" points="251.1,875.5 250.2,877.8 248.2,882.3 	"/>
+	<path class="st111" d="M257.1,816.3l2.4,24.5c0,0-0.3,8.2-1.3,11.5c-1,3.3-5,18.2-5,18.2l-2,5"/>
+	<path class="st107" d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l0.1,1"/>
+	<path class="st112" d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"/>
+	<path class="st109" d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"/>
+	<line class="st109" x1="242.3" y1="902.8" x2="252.5" y2="877.2"/>
+	<g>
+		<g>
+			<line class="st113" x1="142.8" y1="559.7" x2="143.4" y2="558.9"/>
+			<polyline class="st114" points="144.8,557.4 184,512.7 184.2,499.4 			"/>
+			<line class="st113" x1="184.2" y1="498.4" x2="184.2" y2="497.4"/>
 		</g>
 	</g>
-	<polygon
-   points="199.3,666.3 199.3,669.3 209.8,667.8  "
-   id="polygon2599" />
-	<g
-   id="g2601">
-		<g
-   id="g2603">
-			<path
-   class="st11"
-   d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4     C231.8,898.8,226.9,895.1,226.9,890.4z"
-   id="path2605" />
+	<polygon points="199.3,666.3 199.3,669.3 209.8,667.8 	"/>
+	<g>
+		<g>
+			<path class="st11" d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4
+				C231.8,898.8,226.9,895.1,226.9,890.4z"/>
 		</g>
-		<text
-   transform="matrix(1 0 0 1 231.72 894.4634)"
-   class="st12 st13 st14"
-   id="text2607">99</text>
-
+		<text transform="matrix(1 0 0 1 231.72 894.4634)" class="st12 st13 st14">99</text>
 	</g>
-	<path
-   class="st105"
-   d="M174.8,444.8c0,0,2-6.8,2.5-8.1c0.5-1.2,4-7,4-7s0.4-0.4,0.9-0.9"
-   id="path2609" />
-	<path
-   class="st105"
-   d="M185.9,427.5c0.1-0.1,0.2-0.1,0.3-0.1c1.1-0.3,1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"
-   id="path2611" />
-	<path
-   class="st105"
-   d="M180.1,431.7c0,0,1.1-0.9,2.3-1.8"
-   id="path2613" />
-	<rect
-   x="171.2"
-   y="443.2"
-   width="4.5"
-   height="3"
-   id="rect2615" />
-	<path
-   class="st36"
-   d="M184.4,466l0.2-6.8c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.7-2.2   c1.2-4.9,1.2-7.9,1.2-7.9l0-6.7"
-   id="path2617" />
-	<polyline
-   class="st108"
-   points="184.3,495.8 183.9,479.7 184.4,466  "
-   id="polyline2619" />
-	<text
-   transform="matrix(1 0 0 1 203.6049 825.9456)"
-   id="text2621"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2623">South portal</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2625">Highway 99 </tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2627">tunnel</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 181.032 792.5043)"
-   id="text2629"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2631">New South</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2633">Dearborn Street</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 274.6677 849.3545)"
-   id="text2635"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2637">Earthquake-proof</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2639">overpass</tspan></text>
-
-	<g
-   id="g2641">
-		<text
-   transform="matrix(1 0 0 1 129.6552 416.7273)"
-   id="text2643"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2645">North portal</tspan><tspan
-     x="0.2"
-     y="9"
-     class="st13 st63"
-     id="tspan2647">Highway 99 </tspan><tspan
-     x="19.9"
-     y="18"
-     class="st13 st63"
-     id="tspan2649">tunnel</tspan></text>
-
+	<path class="st105" d="M174.8,444.8c0,0,2-6.8,2.5-8.1c0.5-1.2,4-7,4-7s0.4-0.4,0.9-0.9"/>
+	<path class="st105" d="M185.9,427.5c0.1-0.1,0.2-0.1,0.3-0.1c1.1-0.3,1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"/>
+	<path class="st105" d="M180.1,431.7c0,0,1.1-0.9,2.3-1.8"/>
+	<rect x="171.2" y="443.2" width="4.5" height="3"/>
+	<path class="st36" d="M184.4,466l0.2-6.8c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.7-2.2
+		c1.2-4.9,1.2-7.9,1.2-7.9l0-6.7"/>
+	<polyline class="st108" points="184.3,495.8 183.9,479.7 184.4,466 	"/>
+	<text transform="matrix(1 0 0 1 203.6049 825.9456)"><tspan x="0" y="0" class="st13 st63">South portal</tspan><tspan x="0" y="9" class="st13 st63">Highway 99 </tspan><tspan x="0" y="18" class="st13 st63">tunnel</tspan></text>
+	<text transform="matrix(1 0 0 1 181.032 792.5043)"><tspan x="0" y="0" class="st13 st63">New South</tspan><tspan x="0" y="9" class="st13 st63">Dearborn Street</tspan></text>
+	<text transform="matrix(1 0 0 1 274.6677 849.3545)"><tspan x="0" y="0" class="st13 st63">Earthquake-proof</tspan><tspan x="0" y="9" class="st13 st63">overpass</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 129.6552 416.7273)"><tspan x="0" y="0" class="st13 st63">North portal</tspan><tspan x="0.2" y="9" class="st13 st63">Highway 99 </tspan><tspan x="19.9" y="18" class="st13 st63">tunnel</tspan></text>
 	</g>
-	<path
-   class="st115"
-   d="M174,445.3l-1.5,20.1c0,0-2.7,53.8-1.5,64.2c5.2,43.3,32.8,84.3,32.8,84.3s22.7,33.3,28.4,49.3   s18.7,67.9,18.7,67.9l0.7,57.5l3.7,32.1l1.3,35"
-   id="path2651" />
-	<text
-   transform="matrix(1 0 0 1 213.5657 602.3254)"
-   class="st13 st63"
-   id="text2653">Highway 99 tunnel</text>
-
-	<polygon
-   points="212,598.4 212,601.4 196.5,602.9  "
-   id="polygon2655" />
-	<text
-   transform="matrix(1 0 0 1 196.373 693.655)"
-   class="st69 st13 st53"
-   id="text2657">Downtown</text>
-
-	<text
-   transform="matrix(1 0 0 1 166.3811 621.7629)"
-   id="text2659"><tspan
-     x="0"
-     y="0"
-     class="st50 st52 st63"
-     id="tspan2661">Pike Place</tspan><tspan
-     x="0"
-     y="9"
-     class="st50 st52 st63"
-     id="tspan2663">Market</tspan></text>
-
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2665" />
-	<rect
-   x="257.1"
-   y="855.3"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2667" />
-	<rect
-   x="253.9"
-   y="819.5"
-   class="st69"
-   width="2.8"
-   height="3.1"
-   id="rect2669" />
-	<polygon
-   points="236.8,797.6 236.8,801.1 261.3,815.7  "
-   id="polygon2671" />
-	<polygon
-   points="273.4,845.6 273.4,847.9 259,850.4  "
-   id="polygon2673" />
+	<path class="st115" d="M174,445.3l-1.5,20.1c0,0-2.7,53.8-1.5,64.2c5.2,43.3,32.8,84.3,32.8,84.3s22.7,33.3,28.4,49.3
+		s18.7,67.9,18.7,67.9l0.7,57.5l3.7,32.1l1.3,35"/>
+	<text transform="matrix(1 0 0 1 213.5657 602.3254)" class="st13 st63">Highway 99 tunnel</text>
+	<polygon points="212,598.4 212,601.4 196.5,602.9 	"/>
+	<text transform="matrix(1 0 0 1 196.373 693.655)" class="st69 st13 st53">Downtown</text>
+	<text transform="matrix(1 0 0 1 166.3811 621.7629)"><tspan x="0" y="0" class="st50 st52 st63">Pike Place</tspan><tspan x="0" y="9" class="st50 st52 st63">Market</tspan></text>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="257.1" y="855.3" class="st69" width="3.5" height="3.1"/>
+	<rect x="253.9" y="819.5" class="st69" width="2.8" height="3.1"/>
+	<polygon points="236.8,797.6 236.8,801.1 261.3,815.7 	"/>
+	<polygon points="273.4,845.6 273.4,847.9 259,850.4 	"/>
 </g>
-<g
-   id="westseattle_burien_transit">
-	<line
-   class="st116"
-   x1="242.6"
-   y1="729.4"
-   x2="262.8"
-   y2="718.2"
-   id="line2678" />
-	<path
-   class="st117"
-   d="M256.8,829.3l1.6-16.7c0,0,1.9-10.8,3.1-9.3c1.2,1.4,5.2,7.3,5.2,7.3s1.9,4.2,1.9,7.1   c0,2.8-0.9,21.9-0.9,24.5s-5.4,20.7-5.7,21.4s-6.8,15.1-6.8,15.1l-4.7,12.5l0.5,11.1h-10.1l-2.1,7.3l-4.2-1.6l13.4-51.5   L256.8,829.3z"
-   id="path2680" />
-	<path
-   class="st109"
-   d="M269.7,815.7l-15.7,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3C250.8,864,239,898,239,898l-4.2,10.7   "
-   id="path2682" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2684" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2686" />
-	<polyline
-   class="st109"
-   points="236.7,908.7 249.2,877 252.8,866 254.7,858.3  "
-   id="polyline2688" />
-	<path
-   class="st109"
-   d="M232.9,909.3l0.8-3.8c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l6-5.6   c0,0,1.7-3.2,2.3-6.5c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"
-   id="path2690" />
-	<path
-   class="st109"
-   d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"
-   id="path2692" />
-	<path
-   class="st109"
-   d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"
-   id="path2694" />
-	<path
-   class="st109"
-   d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"
-   id="path2696" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2698" />
-	<rect
-   x="257.1"
-   y="855.3"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2700" />
-	<path
-   class="st109"
-   d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.2,20-7.2,20V904"
-   id="path2702" />
-	<path
-   class="st112"
-   d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"
-   id="path2704" />
-	<path
-   class="st109"
-   d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l2.5,25.5c0,0-0.3,8.2-1.3,11.5   c-1,3.3-5,18.2-5,18.2l-3,7.3l-9.5,21.3"
-   id="path2706" />
-	<rect
-   x="253.9"
-   y="819.5"
-   class="st69"
-   width="2.8"
-   height="3.1"
-   id="rect2708" />
-	<g
-   id="g2710">
-		<defs
-   id="defs2712">
-			<rect
-   id="SVGID_3_"
-   x="0.6"
-   y="-0.2"
-   width="765"
-   height="908.5" />
+<path class="st49" d="M140.2,560.4c0,0,3.6,13.7,4.1,17.7s5.6,11.4,7.1,15.9s15.5,17.3,15.5,17.3l18.7,19.9l12.4,17.1l59.3,101
+		v47.5l2.5,20"/>
+<g id="westseattle_burien_transit">
+	<line class="st116" x1="242.6" y1="729.4" x2="262.8" y2="718.2"/>
+	<path class="st117" d="M256.8,829.3l1.6-16.7c0,0,1.9-10.8,3.1-9.3c1.2,1.4,5.2,7.3,5.2,7.3s1.9,4.2,1.9,7.1
+		c0,2.8-0.9,21.9-0.9,24.5s-5.4,20.7-5.7,21.4s-6.8,15.1-6.8,15.1l-4.7,12.5l0.5,11.1h-10.1l-2.1,7.3l-4.2-1.6l13.4-51.5
+		L256.8,829.3z"/>
+	<path class="st109" d="M269.7,815.7l-15.7,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3C250.8,864,239,898,239,898l-4.2,10.7
+		"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<polyline class="st109" points="236.7,908.7 249.2,877 252.8,866 254.7,858.3 	"/>
+	<path class="st109" d="M232.9,909.3l0.8-3.8c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l6-5.6
+		c0,0,1.7-3.2,2.3-6.5c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"/>
+	<path class="st109" d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"/>
+	<path class="st109" d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"/>
+	<path class="st109" d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="257.1" y="855.3" class="st69" width="3.5" height="3.1"/>
+	<path class="st109" d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.2,20-7.2,20V904"/>
+	<path class="st112" d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"/>
+	<path class="st109" d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l2.5,25.5c0,0-0.3,8.2-1.3,11.5
+		c-1,3.3-5,18.2-5,18.2l-3,7.3l-9.5,21.3"/>
+	<rect x="253.9" y="819.5" class="st69" width="2.8" height="3.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="0.6" y="-0.2" width="765" height="908.5"/>
 		</defs>
-		<clipPath
-   id="SVGID_4_">
-			<use
-   xlink:href="#SVGID_3_"
-   style="overflow:visible;"
-   id="use2716" />
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
 		</clipPath>
-		<line
-   class="st118"
-   x1="245.8"
-   y1="685.7"
-   x2="247.9"
-   y2="684.5"
-   id="line2718"
-   clip-path="url(#SVGID_4_)" />
-		<line
-   class="st119"
-   x1="251.4"
-   y1="682.5"
-   x2="263.6"
-   y2="675.4"
-   id="line2720"
-   clip-path="url(#SVGID_4_)" />
-		<polyline
-   class="st118"
-   points="265.3,674.4 267.4,673.2 266.2,671.1   "
-   id="polyline2722"
-   clip-path="url(#SVGID_4_)" />
-		<line
-   class="st120"
-   x1="265.3"
-   y1="669.7"
-   x2="238.5"
-   y2="624.4"
-   id="line2724"
-   clip-path="url(#SVGID_4_)" />
-		<polyline
-   class="st121"
-   points="271.4,741.1 269.1,815.4 263.2,815.5 261.6,823 258.3,850.2 250.3,877.6 236.7,907.9 236.6,908.5       "
-   id="polyline2726"
-   clip-path="url(#SVGID_4_)" />
-		<polyline
-   class="st122"
-   points="271.1,742.7 270.7,727.3 245.8,686.3   "
-   id="polyline2728"
-   clip-path="url(#SVGID_4_)" />
+		<line class="st118" x1="245.8" y1="685.7" x2="247.9" y2="684.5"/>
+		<line class="st119" x1="251.4" y1="682.5" x2="263.6" y2="675.4"/>
+		<polyline class="st118" points="265.3,674.4 267.4,673.2 266.2,671.1 		"/>
+		<line class="st120" x1="265.3" y1="669.7" x2="238.5" y2="624.4"/>
+		<polyline class="st121" points="271.4,741.1 269.1,815.4 263.2,815.5 261.6,823 258.3,850.2 250.3,877.6 236.7,907.9 236.6,908.5 
+					"/>
+		<polyline class="st121" points="271.1,742.7 270.7,727.3 245.8,686.3 		"/>
 	</g>
-	<path
-   class="st112"
-   d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"
-   id="path2730" />
-	<path
-   class="st109"
-   d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"
-   id="path2732" />
-	<g
-   id="g2734">
-		<g
-   id="g2736">
-			<path
-   class="st60"
-   d="M466.4,835.9c0,0-1.1,1.5-3.6,1.5c-2.2,0-3.9-1.5-3.9-1.5s-4.2,3.5-2.9,8.8c1.4,5.8,10.1,7.7,10.1,7.7     s8.9-1.7,10.6-7.7c1.5-5.2-2.9-8.8-2.9-8.8s-1.7,1.5-3.9,1.5C467.5,837.4,466.4,835.9,466.4,835.9z"
-   id="path2738" />
+	<path class="st112" d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"/>
+	<path class="st109" d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"/>
+	<g>
+		<g>
+			<path class="st60" d="M466.4,835.9c0,0-1.1,1.5-3.6,1.5c-2.2,0-3.9-1.5-3.9-1.5s-4.2,3.5-2.9,8.8c1.4,5.8,10.1,7.7,10.1,7.7
+				s8.9-1.7,10.6-7.7c1.5-5.2-2.9-8.8-2.9-8.8s-1.7,1.5-3.9,1.5C467.5,837.4,466.4,835.9,466.4,835.9z"/>
 		</g>
-		<g
-   id="g2740">
-			<text
-   transform="matrix(1 0 0 1 460.3626 848.022)"
-   class="st12 st13 st14"
-   id="text2742">90</text>
-
+		<g>
+			<text transform="matrix(1 0 0 1 460.3626 848.022)" class="st12 st13 st14">90</text>
 		</g>
 	</g>
-	<polyline
-   class="st123"
-   points="259.3,834.8 256.3,799.8 253.3,777.8 252.3,747.8 241.8,729.8 259.7,719.6  "
-   id="polyline2744" />
-	<text
-   transform="matrix(1 0 0 1 190.1341 861.2159)"
-   id="text2746"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st53"
-     id="tspan2748">Bus routes:</tspan><tspan
-     x="7.2"
-     y="12"
-     class="st69 st13 st53"
-     id="tspan2750">C and 120</tspan></text>
-
-	<g
-   id="g2752">
-		<text
-   transform="matrix(1 0 0 1 189.7413 798.6598)"
-   id="text2754"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st53"
-     id="tspan2756">New South</tspan><tspan
-     x="-21.4"
-     y="11"
-     class="st69 st13 st53"
-     id="tspan2758">Dearborn Street</tspan></text>
-
+	<polyline class="st122" points="259.3,834.8 256.3,799.8 253.3,777.8 252.3,747.8 241.8,729.8 259.7,719.6 	"/>
+	<text transform="matrix(1 0 0 1 190.1341 861.2159)"><tspan x="0" y="0" class="st69 st13 st53">Bus routes:</tspan><tspan x="7.2" y="12" class="st69 st13 st53">C and 120</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 189.7413 798.6598)"><tspan x="0" y="0" class="st69 st13 st53">New South</tspan><tspan x="-21.4" y="11" class="st69 st13 st53">Dearborn Street</tspan></text>
 	</g>
-	<g
-   id="g2760">
-		<text
-   transform="matrix(0 -1 1 0 251.2535 784.3392)"
-   class="st69 st64 st66"
-   id="text2762">ALASKAN WAY</text>
-
+	<g>
+		<text transform="matrix(0 -1 1 0 251.2535 784.3392)" class="st69 st64 st66">ALASKAN WAY</text>
 	</g>
-	<g
-   id="g2764">
-		<g
-   id="g2766">
-			<path
-   class="st11"
-   d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4c-2,0-3.9-0.4-5.6-1.2     C229,896.1,226.9,893.4,226.9,890.4z"
-   id="path2768" />
+	<g>
+		<g>
+			<path class="st11" d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4c-2,0-3.9-0.4-5.6-1.2
+				C229,896.1,226.9,893.4,226.9,890.4z"/>
 		</g>
-		<text
-   transform="matrix(1 0 0 1 231.72 894.4634)"
-   class="st12 st13 st14"
-   id="text2770">99</text>
-
+		<text transform="matrix(1 0 0 1 231.72 894.4634)" class="st12 st13 st14">99</text>
 	</g>
-	<text
-   transform="matrix(1 0 0 1 203.6049 825.9456)"
-   id="text2772"><tspan
-     x="0"
-     y="0"
-     class="st12 st13 st63"
-     id="tspan2774">South portal</tspan><tspan
-     x="0"
-     y="9"
-     class="st12 st13 st63"
-     id="tspan2776">Highway 99 </tspan><tspan
-     x="0"
-     y="18"
-     class="st12 st13 st63"
-     id="tspan2778">tunnel</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 196.373 693.655)"
-   class="st69 st13 st53"
-   id="text2780">Downtown</text>
-
-	<text
-   transform="matrix(1 0 0 1 166.3811 621.7629)"
-   id="text2782"><tspan
-     x="0"
-     y="0"
-     class="st50 st52 st63"
-     id="tspan2784">Pike Place</tspan><tspan
-     x="0"
-     y="9"
-     class="st50 st52 st63"
-     id="tspan2786">Market</tspan></text>
-
-	<g
-   id="g2788">
-		<text
-   transform="matrix(0.8681 -0.4964 0.4964 0.8681 265.6083 715.6733)"
-   class="st69 st64 st66"
-   id="text2790">COLUMBIA ST.</text>
-
+	<text transform="matrix(1 0 0 1 203.6049 825.9456)"><tspan x="0" y="0" class="st12 st13 st63">South portal</tspan><tspan x="0" y="9" class="st12 st13 st63">Highway 99 </tspan><tspan x="0" y="18" class="st12 st13 st63">tunnel</tspan></text>
+	<text transform="matrix(1 0 0 1 196.373 693.655)" class="st69 st13 st53">Downtown</text>
+	<text transform="matrix(1 0 0 1 166.3811 621.7629)"><tspan x="0" y="0" class="st50 st52 st63">Pike Place</tspan><tspan x="0" y="9" class="st50 st52 st63">Market</tspan></text>
+	<g>
+		<text transform="matrix(0.8681 -0.4964 0.4964 0.8681 265.6083 715.6733)" class="st69 st64 st66">COLUMBIA ST.</text>
 	</g>
-	<polygon
-   class="st82"
-   points="236.2,722.1 235.8,721.5 240.6,718.9 240.8,719.3  "
-   id="polygon2792" />
-	<polygon
-   class="st82"
-   points="242.5,717.6 242.2,717.1 240.6,718.9 240.8,719.3  "
-   id="polygon2794" />
-	<polygon
-   class="st69"
-   points="238.3,805.2 238.3,808.5 262,815.5  "
-   id="polygon2796" />
+	<polygon class="st82" points="236.2,722.1 235.8,721.5 240.6,718.9 240.8,719.3 	"/>
+	<polygon class="st82" points="242.5,717.6 242.2,717.1 240.6,718.9 240.8,719.3 	"/>
+	<polygon class="st69" points="238.3,805.2 238.3,808.5 262,815.5 	"/>
 </g>
-<g
-   id="madison_street_bus_rapid_transit">
-	<polyline
-   class="st124"
-   points="647.4,438.1 571,510.7 252,697.2 240,675.7 328.2,624.3 340.5,645.2  "
-   id="polyline2799" />
-	<circle
-   class="st125"
-   cx="329.7"
-   cy="651.7"
-   r="2.6"
-   id="circle2801" />
-	<circle
-   class="st125"
-   cx="359.1"
-   cy="634.3"
-   r="2.6"
-   id="circle2803" />
-	<circle
-   class="st125"
-   cx="449.3"
-   cy="581.7"
-   r="2.6"
-   id="circle2805" />
-	<circle
-   class="st125"
-   cx="507.5"
-   cy="548.2"
-   r="2.6"
-   id="circle2807" />
-	<circle
-   class="st125"
-   cx="570.8"
-   cy="510.3"
-   r="2.6"
-   id="circle2809" />
-	<circle
-   class="st125"
-   cx="602.3"
-   cy="480.9"
-   r="2.6"
-   id="circle2811" />
-	<circle
-   class="st125"
-   cx="647.3"
-   cy="437.8"
-   r="2.6"
-   id="circle2813" />
-	<circle
-   class="st125"
-   cx="292"
-   cy="673.9"
-   r="2.6"
-   id="circle2815" />
-	<circle
-   class="st125"
-   cx="279.3"
-   cy="652.5"
-   r="2.6"
-   id="circle2817" />
-	<circle
-   class="st125"
-   cx="257.3"
-   cy="665.4"
-   r="2.6"
-   id="circle2819" />
-	<circle
-   class="st125"
-   cx="269"
-   cy="687.2"
-   r="2.6"
-   id="circle2821" />
-	<circle
-   class="st125"
-   cx="245.7"
-   cy="686.1"
-   r="2.6"
-   id="circle2823" />
-	<circle
-   class="st125"
-   cx="317.7"
-   cy="630.8"
-   r="2.6"
-   id="circle2825" />
-	<text
-   transform="matrix(0.8709 -0.4915 0.4915 0.8709 328.5571 648.7274)"
-   class="st69 st64 st66"
-   id="text2827">MADISON ST.</text>
-
-	<text
-   transform="matrix(0.8709 -0.4915 0.4915 0.8709 239.3141 672.3936)"
-   class="st69 st64 st66"
-   id="text2829">SPRING ST.</text>
-
-	<text
-   transform="matrix(0.8709 -0.4915 0.4915 0.8709 509.2252 543.072)"
-   class="st69 st64 st66"
-   id="text2831">E. MADISON ST.</text>
-
-	<text
-   transform="matrix(0.5373 0.8434 -0.8434 0.5373 241.2698 676.3901)"
-   class="st69 st64 st66"
-   id="text2833">1ST AVE.</text>
-
-	<polygon
-   class="st69"
-   points="304.8,668.5 305.9,670.6 301.2,672.1  "
-   id="polygon2835" />
-	<polygon
-   class="st69"
-   points="283.3,681 284.4,683.1 279.7,684.6  "
-   id="polygon2837" />
-	<polygon
-   class="st69"
-   points="260.7,693.8 261.8,695.9 257.2,697.4  "
-   id="polygon2839" />
-	<polygon
-   class="st69"
-   points="264,658.9 262.9,656.7 267.6,655.3  "
-   id="polygon2841" />
-	<polygon
-   class="st69"
-   points="286.6,646.1 285.5,643.9 290.1,642.5  "
-   id="polygon2843" />
-	<polygon
-   class="st69"
-   points="309.8,632.7 308.7,630.6 313.4,629.2  "
-   id="polygon2845" />
-	<polygon
-   class="st69"
-   points="327,630.3 329.1,629.1 330.7,633.7  "
-   id="polygon2847" />
-	<polygon
-   class="st69"
-   points="248.4,694.7 246.2,695.8 244.8,691.2  "
-   id="polygon2849" />
-	<polygon
-   class="st69"
-   points="241.3,682.7 239.1,683.6 238.1,678.8  "
-   id="polygon2851" />
-	<polygon
-   class="st69"
-   points="339.1,647.8 340.2,649.9 335.5,651.4  "
-   id="polygon2853" />
-	<polygon
-   class="st69"
-   points="325.6,656.2 326.7,658.4 322,659.8  "
-   id="polygon2855" />
-	<text
-   transform="matrix(2.881000e-02 -0.9996 0.9996 2.881000e-02 647.3173 526.4436)"
-   class="st69 st64 st65"
-   id="text2857">MARTIN LUTHER KING JR. WAY</text>
-
+<g id="madison_street_bus_rapid_transit">
+	<polyline class="st123" points="647.4,438.1 571,510.7 252,697.2 245.1,686 333.3,634.7 340.5,645.2 	"/>
+	<circle class="st124" cx="329.7" cy="651.7" r="2.6"/>
+	<circle class="st124" cx="359.1" cy="634.3" r="2.6"/>
+	<circle class="st124" cx="449.3" cy="581.7" r="2.6"/>
+	<circle class="st124" cx="507.5" cy="548.2" r="2.6"/>
+	<circle class="st124" cx="570.8" cy="510.3" r="2.6"/>
+	<circle class="st124" cx="602.3" cy="480.9" r="2.6"/>
+	<circle class="st124" cx="647.3" cy="437.8" r="2.6"/>
+	<circle class="st124" cx="292" cy="673.9" r="2.6"/>
+	<circle class="st124" cx="284.3" cy="663.5" r="2.6"/>
+	<circle class="st124" cx="262.3" cy="676.4" r="2.6"/>
+	<circle class="st124" cx="269" cy="687.2" r="2.6"/>
+	<circle class="st124" cx="322.6" cy="641.7" r="2.6"/>
+	<text transform="matrix(0.8709 -0.4915 0.4915 0.8709 328.5571 648.7274)" class="st69 st64 st66">MADISON ST.</text>
+	<text transform="matrix(0.8709 -0.4915 0.4915 0.8709 308.5805 645.8916)" class="st69 st64 st66">SPRING ST.</text>
+	<text transform="matrix(0.8709 -0.4915 0.4915 0.8709 509.2252 543.072)" class="st69 st64 st66">E. MADISON ST.</text>
+	<text transform="matrix(0.4802 0.8772 -0.8772 0.4802 234.7939 663.9576)" class="st69 st64 st66">1ST AVE.</text>
+	<polygon class="st69" points="304.8,668.5 305.9,670.6 301.2,672.1 	"/>
+	<polygon class="st69" points="283.3,681 284.4,683.1 279.7,684.6 	"/>
+	<polygon class="st69" points="260.7,693.8 261.8,695.9 257.2,697.4 	"/>
+	<polygon class="st69" points="271.9,674.7 270.8,672.6 275.5,671.1 	"/>
+	<polygon class="st69" points="251.4,687 250.3,684.8 255,683.4 	"/>
+	<polygon class="st69" points="294.5,661.9 293.4,659.8 298,658.3 	"/>
+	<polygon class="st69" points="317.7,648.6 316.6,646.4 321.3,645 	"/>
+	<polygon class="st69" points="334.7,633.1 336.8,632 338.4,636.6 	"/>
+	<polygon class="st69" points="248.4,694.7 246.2,695.8 244.8,691.2 	"/>
+	<polygon class="st69" points="339.1,647.8 340.2,649.9 335.5,651.4 	"/>
+	<polygon class="st69" points="325.6,656.2 326.7,658.4 322,659.8 	"/>
+	<text transform="matrix(2.881000e-02 -0.9996 0.9996 2.881000e-02 647.3173 526.4436)" class="st69 st64 st65">MARTIN LUTHER KING JR. WAY</text>
 </g>
-<g
-   id="highway_99_tunnel_opens">
-	<path
-   class="st70"
-   d="M174.8,443.6c0,0,1.3-4.3,1.8-5.5c0.5-1.2,4.6-8.1,4.6-8.1s3.5-4,4.2-4.7c0.7-0.7,0.6,1.8,1.5-2.8   c0.9-4.5-1.3-8.6-1.5-11.8"
-   id="path2860" />
-	<path
-   class="st126"
-   d="M180,431.9c0,0,4.9-4,6-4.3s1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"
-   id="path2862" />
-	<polygon
-   class="st15"
-   points="181.6,426 179.1,435.1 183.6,434.3 185.2,424.8  "
-   id="polygon2864" />
-	<path
-   class="st15"
-   d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l1.8,0.8v7.8l-1.2,25.5l-3.8,25.4l-4.7,0.5   l-8,18.7l-9.8,11.5l-1.4,4.6l-9.4-0.2l-1.3-45.3l20.8-55.8v-17.5L257.5,788.5z"
-   id="path2866" />
-	<path
-   class="st127"
-   d="M269.7,815.7l-15.7,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3C250.8,864,239,898,239,898l-4.2,10.7   "
-   id="path2868" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2870" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2872" />
-	<polyline
-   class="st127"
-   points="236.7,908.7 249.2,877 252.8,866 254.7,858.3  "
-   id="polyline2874" />
-	<path
-   class="st127"
-   d="M233.1,908.4l0.6-2.9c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l6-5.6   c0,0,1.7-3.2,2.3-6.5c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"
-   id="path2876" />
-	<path
-   class="st127"
-   d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"
-   id="path2878" />
-	<path
-   class="st127"
-   d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"
-   id="path2880" />
-	<path
-   class="st127"
-   d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"
-   id="path2882" />
-	<path
-   class="st49"
-   d="M257.3,785.3v-36l-59.3-101l-12.4-17.1l-18.7-19.9c0,0-14-12.8-15.5-17.3s-6.6-11.9-7.1-15.9   s-4.1-17.7-4.1-17.7"
-   id="path2884" />
-	<path
-   class="st128"
-   d="M174,445.3l-1.5,20.1c0,0-2.7,53.8-1.5,64.2c5.2,43.3,32.8,84.3,32.8,84.3s22.7,33.3,28.4,49.3   s18.7,67.9,18.7,67.9l0.7,57.5l3.7,32.1l1.7,35"
-   id="path2886" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2888" />
-	<rect
-   x="257.1"
-   y="855.3"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2890" />
-	<path
-   class="st127"
-   d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.2,20-7.2,20V904"
-   id="path2892" />
-	<path
-   class="st112"
-   d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"
-   id="path2894" />
-	<path
-   class="st127"
-   d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l2.5,25.5c0,0-0.3,8.2-1.3,11.5   c-1,3.3-5,18.2-5,18.2l-3,7.3l-9.5,21.3"
-   id="path2896" />
-	<path
-   class="st112"
-   d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"
-   id="path2898" />
-	<path
-   class="st127"
-   d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"
-   id="path2900" />
-	<rect
-   x="253.9"
-   y="819.5"
-   class="st69"
-   width="2.8"
-   height="3.1"
-   id="rect2902" />
-	<g
-   id="g2904">
-		<g
-   id="g2906">
-			<path
-   class="st11"
-   d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4     C231.8,898.8,226.9,895.1,226.9,890.4z"
-   id="path2908" />
+<g id="highway_99_tunnel_opens">
+	<path class="st70" d="M174.8,443.6c0,0,1.3-4.3,1.8-5.5c0.5-1.2,4.6-8.1,4.6-8.1s3.5-4,4.2-4.7c0.7-0.7,0.6,1.8,1.5-2.8
+		c0.9-4.5-1.3-8.6-1.5-11.8"/>
+	<path class="st125" d="M180,431.9c0,0,4.9-4,6-4.3s1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"/>
+	<polygon class="st15" points="181.6,426 179.1,435.1 183.6,434.3 185.2,424.8 	"/>
+	<path class="st15" d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l1.8,0.8v7.8l-1.2,25.5l-3.8,25.4l-4.7,0.5
+		l-8,18.7l-9.8,11.5l-1.4,4.6l-9.4-0.2l-1.3-45.3l20.8-55.8v-17.5L257.5,788.5z"/>
+	<path class="st126" d="M269.7,815.7l-15.7,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3C250.8,864,239,898,239,898l-4.2,10.7
+		"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<polyline class="st126" points="236.7,908.7 249.2,877 252.8,866 254.7,858.3 	"/>
+	<path class="st126" d="M233.1,908.4l0.6-2.9c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l6-5.6
+		c0,0,1.7-3.2,2.3-6.5c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"/>
+	<path class="st126" d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"/>
+	<path class="st126" d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"/>
+	<path class="st126" d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"/>
+	<path class="st49" d="M257.3,785.3v-36l-59.3-101l-12.4-17.1l-18.7-19.9c0,0-14-12.8-15.5-17.3s-6.6-11.9-7.1-15.9
+		s-4.1-17.7-4.1-17.7"/>
+	<path class="st127" d="M174,445.3l-1.5,20.1c0,0-2.7,53.8-1.5,64.2c5.2,43.3,32.8,84.3,32.8,84.3s22.7,33.3,28.4,49.3
+		s18.7,67.9,18.7,67.9l0.7,57.5l3.7,32.1l1.7,35"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="257.1" y="855.3" class="st69" width="3.5" height="3.1"/>
+	<path class="st126" d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.2,20-7.2,20V904"/>
+	<path class="st112" d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"/>
+	<path class="st126" d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l2.5,25.5c0,0-0.3,8.2-1.3,11.5
+		c-1,3.3-5,18.2-5,18.2l-3,7.3l-9.5,21.3"/>
+	<path class="st112" d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"/>
+	<path class="st126" d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"/>
+	<rect x="253.9" y="819.5" class="st69" width="2.8" height="3.1"/>
+	<g>
+		<g>
+			<path class="st11" d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4
+				C231.8,898.8,226.9,895.1,226.9,890.4z"/>
 		</g>
-		<text
-   transform="matrix(1 0 0 1 231.72 894.4634)"
-   class="st12 st13 st14"
-   id="text2910">99</text>
-
+		<text transform="matrix(1 0 0 1 231.72 894.4634)" class="st12 st13 st14">99</text>
 	</g>
-	<path
-   class="st33"
-   d="M184.4,466l0.2-6.8c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.1-1.7   c1.2-4.9,1-7.6,1-7.6l0.5-8.2"
-   id="path2912" />
-	<path
-   class="st33"
-   d="M183.7,465.3l0.2-6.4c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.7-2.2   c1.2-4.9,1.2-7.9,1.2-7.9l0.1-4.9"
-   id="path2914" />
-	<path
-   class="st70"
-   d="M184.7,406l-0.6,7.2c0,0-0.5,7.2-3,10.2c-2.3,2.8-8,8.5-8.8,20.9"
-   id="path2916" />
-	<rect
-   x="171.2"
-   y="443.4"
-   width="4.5"
-   height="2.6"
-   id="rect2918" />
-	<text
-   transform="matrix(1 0 0 1 166.3811 621.7629)"
-   id="text2920"><tspan
-     x="0"
-     y="0"
-     class="st50 st52 st63"
-     id="tspan2922">Pike Place</tspan><tspan
-     x="0"
-     y="9"
-     class="st50 st52 st63"
-     id="tspan2924">Market</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 203.6049 825.9456)"
-   id="text2926"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2928">South portal</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2930">Highway 99 </tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2932">tunnel</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 263.5741 860.1768)"
-   class="st69 st52 st63"
-   id="text2934">Entrace</text>
-
-	<text
-   transform="matrix(1 0 0 1 260.3003 825.1022)"
-   class="st69 st52 st63"
-   id="text2936">Exit</text>
-
-	<text
-   transform="matrix(1 0 0 1 129.6552 416.7275)"
-   id="text2938"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2940">North portal</tspan><tspan
-     x="0.2"
-     y="9"
-     class="st13 st63"
-     id="tspan2942">Highway 99 </tspan><tspan
-     x="19.9"
-     y="18"
-     class="st13 st63"
-     id="tspan2944">tunnel</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 103.401 607.2435)"
-   class="st13 st63"
-   id="text2946">Highway 99 tunnel</text>
-
-	<polygon
-   points="169.7,603.1 169.7,606.1 196.5,602.9  "
-   id="polygon2948" />
-	<text
-   transform="matrix(1 0 0 1 196.373 693.655)"
-   class="st69 st13 st53"
-   id="text2950">Downtown</text>
-
+	<path class="st33" d="M184.4,466l0.2-6.8c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.1-1.7
+		c1.2-4.9,1-7.6,1-7.6l0.5-8.2"/>
+	<path class="st33" d="M183.7,465.3l0.2-6.4c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.7-2.2
+		c1.2-4.9,1.2-7.9,1.2-7.9l0.1-4.9"/>
+	<path class="st70" d="M184.7,406l-0.6,7.2c0,0-0.5,7.2-3,10.2c-2.3,2.8-8,8.5-8.8,20.9"/>
+	<rect x="171.2" y="443.4" width="4.5" height="2.6"/>
+	<text transform="matrix(1 0 0 1 166.3811 621.7629)"><tspan x="0" y="0" class="st50 st52 st63">Pike Place</tspan><tspan x="0" y="9" class="st50 st52 st63">Market</tspan></text>
+	<text transform="matrix(1 0 0 1 203.6049 825.9456)"><tspan x="0" y="0" class="st13 st63">South portal</tspan><tspan x="0" y="9" class="st13 st63">Highway 99 </tspan><tspan x="0" y="18" class="st13 st63">tunnel</tspan></text>
+	<text transform="matrix(1 0 0 1 263.5741 860.1768)" class="st69 st52 st63">Entrace</text>
+	<text transform="matrix(1 0 0 1 260.3003 825.1022)" class="st69 st52 st63">Exit</text>
+	<text transform="matrix(1 0 0 1 129.6552 416.7275)"><tspan x="0" y="0" class="st13 st63">North portal</tspan><tspan x="0.2" y="9" class="st13 st63">Highway 99 </tspan><tspan x="19.9" y="18" class="st13 st63">tunnel</tspan></text>
+	<text transform="matrix(1 0 0 1 103.401 607.2435)" class="st13 st63">Highway 99 tunnel</text>
+	<polygon points="169.7,603.1 169.7,606.1 196.5,602.9 	"/>
+	<text transform="matrix(1 0 0 1 196.373 693.655)" class="st69 st13 st53">Downtown</text>
 </g>
-<g
-   id="viaduct_demolition">
-	<path
-   class="st15"
-   d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l1.8,0.8v7.8l-1.2,25.5l-3.8,25.4l-4.7,0.5   l-8,18.7l-9.8,11.5l-1.4,4.6l-20.9-0.2l10.2-45.3l20.8-55.8v-17.5L257.5,788.5z"
-   id="path2953" />
-	<path
-   class="st15"
-   d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l0.8,0.7v7.8h-4v51.2h-2.5l-9.8,20h-1.7   l-6.3,15.2h-13l15-44.8l4.5-56.3v-17.5L257.5,788.5z"
-   id="path2955" />
-	<path
-   class="st127"
-   d="M269.7,815.7l-15.7,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3C250.8,864,239,898,239,898l-4.2,10.7   "
-   id="path2957" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2959" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect2961" />
-	<polyline
-   class="st127"
-   points="236.7,908.7 249.2,877 252.8,866 254.7,858.3  "
-   id="polyline2963" />
-	<path
-   class="st127"
-   d="M233,909l0.7-3.4c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l6-5.6c0,0,1.7-3.2,2.3-6.5   c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"
-   id="path2965" />
-	<path
-   class="st127"
-   d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"
-   id="path2967" />
-	<path
-   class="st127"
-   d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"
-   id="path2969" />
-	<path
-   class="st127"
-   d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"
-   id="path2971" />
-	<path
-   class="st127"
-   d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.2,20-7.2,20V904"
-   id="path2973" />
-	<path
-   class="st130"
-   d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"
-   id="path2975" />
-	<path
-   class="st127"
-   d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l2.5,25.5c0,0-0.3,8.2-1.3,11.5   c-1,3.3-5,18.2-5,18.2l-3,7.3l-9.5,21.3"
-   id="path2977" />
-	<path
-   class="st130"
-   d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"
-   id="path2979" />
-	<path
-   class="st127"
-   d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"
-   id="path2981" />
-	<line
-   class="st127"
-   x1="242.3"
-   y1="902.8"
-   x2="252.5"
-   y2="877.2"
-   id="line2983" />
-	<g
-   id="g2985">
-		<g
-   id="g2987">
-			<path
-   class="st11"
-   d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4     C231.8,898.8,226.9,895.1,226.9,890.4z"
-   id="path2989" />
+<g id="viaduct_demolition">
+	<path class="st15" d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l1.8,0.8v7.8l-1.2,25.5l-3.8,25.4l-4.7,0.5
+		l-8,18.7l-9.8,11.5l-1.4,4.6l-20.9-0.2l10.2-45.3l20.8-55.8v-17.5L257.5,788.5z"/>
+	<path class="st15" d="M257.5,788.5c0,0,0.3,11.2,1.2,13.3c0.8,2.2,7.7,10.2,7.7,10.2l0.8,0.7v7.8h-4v51.2h-2.5l-9.8,20h-1.7
+		l-6.3,15.2h-13l15-44.8l4.5-56.3v-17.5L257.5,788.5z"/>
+	<path class="st126" d="M269.7,815.7l-15.7,0.2c-0.7,6.5-1.7,28.9-1.9,35.2c0,0-0.7,9.7-1,11.3C250.8,864,239,898,239,898l-4.2,10.7
+		"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<polyline class="st126" points="236.7,908.7 249.2,877 252.8,866 254.7,858.3 	"/>
+	<path class="st126" d="M233,909l0.7-3.4c0,0,0.7-0.3,0.2-2.1c-0.5-1.8,0.9-9.4,0.9-9.4l0.9-9.7l5.2-12.7l6-5.6c0,0,1.7-3.2,2.3-6.5
+		c0.7-3.3,1-7.7,1-9.3c0-1.7,1.7-33.7,1.7-33.7s0-0.7,2-0.7"/>
+	<path class="st126" d="M253.5,787.3l-0.3,14.3c0,0,0.2,2.5,0.5,4.2c0.3,1.7,1,4.7,1,5.7s0.5,4,0.5,4"/>
+	<path class="st126" d="M255.2,822c0,0,0.8,18,0.2,21.5c-0.7,3.5-2.8,14.7-2.8,14.7l-1.2,4.8"/>
+	<path class="st126" d="M256.2,872.5c0,0,3.5-7.2,3.5-9.3c0-2.2-0.2-5-0.2-5"/>
+	<path class="st126" d="M255.5,822.2l1,21.2l0.2,4.8c0,0,1.2,11.7,0.8,14.8s-0.7,6.8-1.2,8.7c-0.5,1.8-7.2,20-7.2,20V904"/>
+	<path class="st129" d="M258.6,850.5c-0.1,0.7-0.3,1.4-0.4,1.9c-0.5,1.8-1.9,6.9-3.1,11.3"/>
+	<path class="st126" d="M254,786.8l1,8.3c0,0,1.5,5.5,1.3,7c-0.2,1.5,0.7,13.2,0.7,13.2l2.5,25.5c0,0-0.3,8.2-1.3,11.5
+		c-1,3.3-5,18.2-5,18.2l-3,7.3l-9.5,21.3"/>
+	<path class="st129" d="M252.5,877.2c0,0,1.2-2,0.2-3.5s-1.6-2-2.3-2.3c-0.7-0.3-3.1-1.4-3.1-1.4l-3.5,0.5"/>
+	<path class="st126" d="M242.3,902.8l10.2-25.7c0,0,1.2-2,0.2-3.5s-2.5-2.4-3.2-2.8c-0.7-0.3-3.5-0.9-3.5-0.9l-3.5,0.2"/>
+	<line class="st126" x1="242.3" y1="902.8" x2="252.5" y2="877.2"/>
+	<g>
+		<g>
+			<path class="st11" d="M226.9,890.4c0-4.7,4.9-8.6,10.7-8.6c5.8,0,10.9,3.9,10.9,8.6c0,4.7-5.1,8.4-10.9,8.4
+				C231.8,898.8,226.9,895.1,226.9,890.4z"/>
 		</g>
-		<text
-   transform="matrix(1 0 0 1 231.72 894.4634)"
-   class="st12 st13 st14"
-   id="text2991">99</text>
-
+		<text transform="matrix(1 0 0 1 231.72 894.4634)" class="st12 st13 st14">99</text>
 	</g>
-	<text
-   transform="matrix(1 0 0 1 203.6049 825.9456)"
-   id="text2993"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan2995">South portal</tspan><tspan
-     x="0"
-     y="9"
-     class="st13 st63"
-     id="tspan2997">Highway 99 </tspan><tspan
-     x="0"
-     y="18"
-     class="st13 st63"
-     id="tspan2999">tunnel</tspan></text>
-
-	<path
-   class="st131"
-   d="M174,445.3l-1.5,20.1c0,0-2.7,53.8-1.5,64.2c5.2,43.3,32.8,84.3,32.8,84.3s22.7,33.3,28.4,49.3   s18.7,67.9,18.7,67.9l0.7,57.5l3.7,32.1l1.5,35.2"
-   id="path3001" />
-	<path
-   class="st70"
-   d="M174.8,443.6c0,0,1.3-4.3,1.8-5.5c0.5-1.2,4.6-8.1,4.6-8.1s3.5-4,4.2-4.7c0.7-0.7,0.6,1.8,1.5-2.8   c0.9-4.5-1.3-8.6-1.5-11.8"
-   id="path3003" />
-	<path
-   class="st126"
-   d="M180,431.9c0,0,4.9-4,6-4.3s1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"
-   id="path3005" />
-	<polygon
-   class="st15"
-   points="181.6,426 179.1,435.1 183.6,434.3 185.2,424.8  "
-   id="polygon3007" />
-	<path
-   class="st70"
-   d="M184.7,406l-0.6,7.2c0,0-0.5,7.2-3,10.2s-8.9,9.3-8.9,23.9"
-   id="path3009" />
-	<rect
-   x="171.2"
-   y="443.4"
-   width="4.5"
-   height="2.6"
-   id="rect3011" />
-	<path
-   class="st132"
-   d="M257.4,788.1l0.2-36.9l-59.3-103.6c0,0-7.5-12.1-22.5-27c-15-14.9-26.6-26.5-30-38.1   c-3.3-11.6-4.3-17.8-4.3-17.8l-0.3-2.6l0.8-1.8"
-   id="path3013" />
-	<path
-   class="st133"
-   d="M184.4,466l0.2-6.8c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.1-1.7   c1.2-4.9,1-7.6,1-7.6l0.5-8.2"
-   id="path3015" />
-	<text
-   transform="matrix(1 0 0 1 129.6552 416.7273)"
-   id="text3017"><tspan
-     x="0"
-     y="0"
-     class="st13 st63"
-     id="tspan3019">North portal</tspan><tspan
-     x="0.2"
-     y="9"
-     class="st13 st63"
-     id="tspan3021">Highway 99 </tspan><tspan
-     x="19.9"
-     y="18"
-     class="st13 st63"
-     id="tspan3023">tunnel</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 174.721 676.9468)"
-   class="st13 st63"
-   id="text3025">Viaduct </text>
-
-	<g
-   id="g3027">
-		<g
-   id="g3029">
-			<line
-   class="st134"
-   x1="142.7"
-   y1="559.7"
-   x2="143.4"
-   y2="558.9"
-   id="line3031" />
-			<polyline
-   class="st135"
-   points="144.8,557.4 184,512.7 184.2,499.4    "
-   id="polyline3033" />
-			<line
-   class="st134"
-   x1="184.2"
-   y1="498.4"
-   x2="184.2"
-   y2="497.4"
-   id="line3035" />
+	<text transform="matrix(1 0 0 1 203.6049 825.9456)"><tspan x="0" y="0" class="st13 st63">South portal</tspan><tspan x="0" y="9" class="st13 st63">Highway 99 </tspan><tspan x="0" y="18" class="st13 st63">tunnel</tspan></text>
+	<path class="st130" d="M174,445.3l-1.5,20.1c0,0-2.7,53.8-1.5,64.2c5.2,43.3,32.8,84.3,32.8,84.3s22.7,33.3,28.4,49.3
+		s18.7,67.9,18.7,67.9l0.7,57.5l3.7,32.1l1.5,35.2"/>
+	<path class="st70" d="M174.8,443.6c0,0,1.3-4.3,1.8-5.5c0.5-1.2,4.6-8.1,4.6-8.1s3.5-4,4.2-4.7c0.7-0.7,0.6,1.8,1.5-2.8
+		c0.9-4.5-1.3-8.6-1.5-11.8"/>
+	<path class="st125" d="M180,431.9c0,0,4.9-4,6-4.3s1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"/>
+	<polygon class="st15" points="181.6,426 179.1,435.1 183.6,434.3 185.2,424.8 	"/>
+	<path class="st70" d="M184.7,406l-0.6,7.2c0,0-0.5,7.2-3,10.2s-8.9,9.3-8.9,23.9"/>
+	<rect x="171.2" y="443.4" width="4.5" height="2.6"/>
+	<path class="st131" d="M257.4,788.1l0.2-36.9l-59.3-103.6c0,0-7.5-12.1-22.5-27c-15-14.9-26.6-26.5-30-38.1
+		c-3.3-11.6-4.3-17.8-4.3-17.8l-0.3-2.6l0.8-1.8"/>
+	<path class="st132" d="M184.4,466l0.2-6.8c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.1-1.7
+		c1.2-4.9,1-7.6,1-7.6l0.5-8.2"/>
+	<text transform="matrix(1 0 0 1 129.6552 416.7273)"><tspan x="0" y="0" class="st13 st63">North portal</tspan><tspan x="0.2" y="9" class="st13 st63">Highway 99 </tspan><tspan x="19.9" y="18" class="st13 st63">tunnel</tspan></text>
+	<text transform="matrix(1 0 0 1 174.721 676.9468)" class="st13 st63">Viaduct </text>
+	<g>
+		<g>
+			<line class="st133" x1="142.7" y1="559.7" x2="143.4" y2="558.9"/>
+			<polyline class="st134" points="144.8,557.4 184,512.7 184.2,499.4 			"/>
+			<line class="st133" x1="184.2" y1="498.4" x2="184.2" y2="497.4"/>
 		</g>
 	</g>
-	<text
-   transform="matrix(1 0 0 1 196.373 693.655)"
-   class="st69 st13 st53"
-   id="text3037">Downtown</text>
-
-	<polygon
-   points="202.5,673.2 202.5,676.2 213,674.7  "
-   id="polygon3039" />
-	<path
-   class="st40"
-   d="M183.7,465.3l0.2-6.4c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.7-2.2   c1.2-4.9,1.2-7.9,1.2-7.9l0.1-4.9"
-   id="path3043" />
-	<rect
-   x="253.6"
-   y="855.9"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect3045" />
-	<rect
-   x="257.1"
-   y="855.3"
-   class="st69"
-   width="3.5"
-   height="3.1"
-   id="rect3047" />
-	<rect
-   x="253.9"
-   y="819.5"
-   class="st69"
-   width="2.8"
-   height="3.1"
-   id="rect3049" />
-	<text
-   transform="matrix(1 0 0 1 213.5657 602.3254)"
-   class="st12 st13 st63"
-   id="text3051">Highway 99 tunnel</text>
-
-	<polygon
-   class="st12"
-   points="212,598.4 212,601.4 196.5,602.9  "
-   id="polygon3053" />
-	<text
-   transform="matrix(1 0 0 1 166.3811 621.7629)"
-   id="text3055"><tspan
-     x="0"
-     y="0"
-     class="st50 st52 st63"
-     id="tspan3057">Pike Place</tspan><tspan
-     x="0"
-     y="9"
-     class="st50 st52 st63"
-     id="tspan3059">Market</tspan></text>
-
-	<text
-   transform="matrix(0.7381 0.6747 -0.6747 0.7381 167.9685 639.1193)"
-   class="st69 st64 st66"
-   id="text3061">ALASKAN WAY</text>
-
+	<text transform="matrix(1 0 0 1 196.373 693.655)" class="st69 st13 st53">Downtown</text>
+	<polygon points="202.5,673.2 202.5,676.2 213,674.7 	"/>
+	<path class="st40" d="M185.2,410.6l4.8-167.2c0,0-3.3-8.3-15-29.7C163.3,192.2,155,136,155,117.8c0-8.3,1-60.9,2.2-115.8"/>
+	<path class="st40" d="M183.7,465.3l0.2-6.4c0.1-4.7-1.6-11.5-3.1-13.9c-1.5-2.5-1.2-5.2-0.2-9.4c1-4.2,2.5-10,2.5-10l0.7-2.2
+		c1.2-4.9,1.2-7.9,1.2-7.9l0.1-4.9"/>
+	<rect x="253.6" y="855.9" class="st69" width="3.5" height="3.1"/>
+	<rect x="257.1" y="855.3" class="st69" width="3.5" height="3.1"/>
+	<rect x="253.9" y="819.5" class="st69" width="2.8" height="3.1"/>
+	<text transform="matrix(1 0 0 1 213.5657 602.3254)" class="st12 st13 st63">Highway 99 tunnel</text>
+	<polygon class="st12" points="212,598.4 212,601.4 196.5,602.9 	"/>
+	<text transform="matrix(1 0 0 1 166.3811 621.7629)"><tspan x="0" y="0" class="st50 st52 st63">Pike Place</tspan><tspan x="0" y="9" class="st50 st52 st63">Market</tspan></text>
+	<text transform="matrix(0.7381 0.6747 -0.6747 0.7381 167.9685 639.1193)" class="st69 st64 st66">ALASKAN WAY</text>
 </g>
-<g
-   id="key_arena">
-	<rect
-   x="75"
-   y="437.1"
-   class="st75"
-   width="14.5"
-   height="14.8"
-   id="rect3064" />
-	<g
-   id="g3066">
-		<text
-   transform="matrix(1 0 0 1 70.1543 420.3738)"
-   class="st79 st80"
-   id="text3068">KeyArena</text>
-
+<g id="key_arena">
+	<rect x="75" y="437.1" class="st75" width="14.5" height="14.8"/>
+	<g>
+		<text transform="matrix(1 0 0 1 70.1543 420.3738)" class="st79 st80">KeyArena</text>
 	</g>
-	<text
-   transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 83.849 405.9373)"
-   class="st69 st64 st65"
-   id="text3070">W. MERCER ST.</text>
-
-	<polygon
-   points="73,423.2 76.7,423.2 81.3,441.2  "
-   id="polygon3072" />
+	<text transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 83.849 405.9373)" class="st69 st64 st65">W. MERCER ST.</text>
+	<polygon points="73,423.2 76.7,423.2 81.3,441.2 	"/>
 </g>
-<g
-   id="three_streets_across_aurora">
-	<path
-   class="st70"
-   d="M174.8,443.6c0,0,1.3-4.3,1.8-5.5c0.5-1.2,4.6-8.1,4.6-8.1s3.5-4,4.2-4.7c0.7-0.7,0.6,1.8,1.5-2.8   c0.9-4.5-1.3-8.6-1.5-11.8"
-   id="path3075" />
-	<path
-   class="st126"
-   d="M180,431.9c0,0,4.9-4,6-4.3s1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"
-   id="path3077" />
-	<polygon
-   class="st15"
-   points="181.8,425.8 179.5,435 182.4,434.5 184.9,424.6  "
-   id="polygon3079" />
-	<path
-   class="st70"
-   d="M184.7,406l-0.6,7.2c0,0-0.5,7.2-3,10.2c-2.3,2.9-8,8.5-8.8,21"
-   id="path3081" />
-	<rect
-   x="171.2"
-   y="443.4"
-   class="st12"
-   width="4.5"
-   height="2.6"
-   id="rect3083" />
-	<path
-   class="st133"
-   d="M183.9,424.2c1.2-4.9,1-7.6,1-7.6l0.5-8.2"
-   id="path3085" />
-	<path
-   class="st39"
-   d="M185.2,410.6l-0.1,4.9c0,0,0,3-1.2,7.9l-0.7,2.2c0,0-1.5,5.8-2.5,10c-1,4.2-1.2,6.9,0.2,9.4   c1.5,2.5,3.1,9.3,3.1,13.9l-0.2,6.4L183,479l0.2,17.1"
-   id="path3087" />
-	<line
-   class="st136"
-   x1="174.8"
-   y1="462.6"
-   x2="194.3"
-   y2="462.6"
-   id="line3089" />
-	<line
-   class="st136"
-   x1="158.8"
-   y1="445.1"
-   x2="194.6"
-   y2="445.1"
-   id="line3091" />
-	<line
-   class="st136"
-   x1="174.8"
-   y1="479.1"
-   x2="194.3"
-   y2="479.1"
-   id="line3093" />
-	<text
-   transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 147.9323 442.0207)"
-   class="st69 st13 st65"
-   id="text3095">HARRISON ST.</text>
-
-	<text
-   transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 186.9323 460.7707)"
-   class="st69 st13 st65"
-   id="text3097">THOMAS ST.</text>
-
-	<text
-   transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 186.9323 477.2707)"
-   class="st69 st13 st65"
-   id="text3099">JOHN ST.</text>
-
+<g id="three_streets_across_aurora">
+	<path class="st70" d="M174.8,443.6c0,0,1.3-4.3,1.8-5.5c0.5-1.2,4.6-8.1,4.6-8.1s3.5-4,4.2-4.7c0.7-0.7,0.6,1.8,1.5-2.8
+		c0.9-4.5-1.3-8.6-1.5-11.8"/>
+	<path class="st125" d="M180,431.9c0,0,4.9-4,6-4.3s1.8-0.3,2.7,0.5c0.9,0.8,1.7,1.4,3.2,1.5"/>
+	<polygon class="st15" points="181.8,425.8 179.5,435 182.4,434.5 184.9,424.6 	"/>
+	<path class="st70" d="M184.7,406l-0.6,7.2c0,0-0.5,7.2-3,10.2c-2.3,2.9-8,8.5-8.8,21"/>
+	<rect x="171.2" y="443.4" class="st12" width="4.5" height="2.6"/>
+	<path class="st132" d="M183.9,424.2c1.2-4.9,1-7.6,1-7.6l0.5-8.2"/>
+	<path class="st39" d="M185.2,410.6l-0.1,4.9c0,0,0,3-1.2,7.9l-0.7,2.2c0,0-1.5,5.8-2.5,10c-1,4.2-1.2,6.9,0.2,9.4
+		c1.5,2.5,3.1,9.3,3.1,13.9l-0.2,6.4L183,479l0.2,17.1"/>
+	<line class="st135" x1="174.8" y1="462.6" x2="194.3" y2="462.6"/>
+	<line class="st135" x1="158.8" y1="445.1" x2="194.6" y2="445.1"/>
+	<line class="st135" x1="174.8" y1="479.1" x2="194.3" y2="479.1"/>
+	<text transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 147.9323 442.0207)" class="st69 st13 st65">HARRISON ST.</text>
+	<text transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 186.9323 460.7707)" class="st69 st13 st65">THOMAS ST.</text>
+	<text transform="matrix(0.9999 1.687000e-02 -1.687000e-02 0.9999 186.9323 477.2707)" class="st69 st13 st65">JOHN ST.</text>
 </g>
-<g
-   id="highway_520_uw_bus_stops">
-	<path
-   class="st137"
-   d="M559.5,43.7c0,0,6.3-0.4,8.1-1.1l6.9-2.9c0,0,2.8-1.4,3.6-0.9s1.4,1.5,1.3,2.4s-2.3,7.2-2.3,7.2l-0.8,2.5   l-1.7,9.3"
-   id="path3102" />
-	<polyline
-   class="st138"
-   points="582.3,39.4 579.6,45 577.4,52.8 576.2,60.2  "
-   id="polyline3104" />
-	<polygon
-   class="st139"
-   points="579.6,46.9 579.3,46.8 580,44.6 581,42.5 581.3,42.7 580.2,45  "
-   id="polygon3106" />
-	<polygon
-   class="st139"
-   points="577.7,52.8 578,52.9 579.1,48.4 578.8,48.4 578.1,51.2  "
-   id="polygon3108" />
-	<path
-   class="st140"
-   d="M551.4,48.1c0,0-1.3-2.8-0.5-3.6s1.3-1.2,3.3-1.1c2,0.1,5.5,0.3,6.8,0.1c1.3-0.1,3.6-0.1,5.6-0.8   s7.1-2.8,7.1-2.8s3.6-1.4,4.5-0.8c1.1,0.7,1.2,1.6,0.9,2.4c-0.3,0.8-1.6,5.2-1.6,5.2s-1.3,4.7-1.5,5.2c-0.1,0.5-0.8,4-0.8,4   l-0.4,4.1c0,0-0.3,1.6-0.8,2c-0.5,0.4-2.9,0.8-4.1-0.1c-0.7-0.5-0.8-0.3-0.8-0.3l-1.9-1.3"
-   id="path3110" />
-	<path
-   class="st28"
-   d="M583.9,46.8l-0.5-1.3l-0.8-0.9c-0.1-0.1-3-1.3-3.1-1.3c-0.5-0.1-0.9-0.2-1.3-0.1c-0.1,0-0.3,0-0.4,0l0.1,0.6   c0,0,0,0.1,0,0.1c0,0,0.3,0.5,0.3,0.5c0.2,0,0.4-0.1,0.6-0.1c0.3,0,0.6,0,0.9,0c0.7,0.1,1.2,0.4,1.7,0.9c0.1,0.1,0.2,0.2,0.3,0.4   c0,0,0,0,0,0c0.1,0.1,0.2,0.2,0.2,0.3c0.5,0.8,0.3,1.9,0,2.8l0,0l-1.2,4.8l-0.8,3.8h0c-0.2,0.7-0.3,1.5-0.4,2.2l0,0l-0.2,1.9   l0.7-0.6l0.1-1.4l0,0c0.1-0.7,0.2-1.3,0.3-2l0,0l0.8-3.9l1.1-4.8l0,0c0.4-1.4,0.4-2.9-0.6-4c0,0,0,0,0,0c-0.1-0.1-0.1-0.1-0.2-0.2   l0,0l0.4,0.4l0.9,1.1c0,0,0.4,0.7,0.5,0.9l-0.4,0l0,1.3l-0.2,3.8l0.8-0.1l0-3.8l0.2,0c0,0,0,0,0,0.1v0h0l0,2.6l0.7,0l0-2   C584.5,49.2,584.4,48.1,583.9,46.8"
-   id="path3112" />
-	<polygon
-   class="st139"
-   points="576.5,49.4 576.1,49.4 575.1,53.8 575.4,53.9  "
-   id="polygon3114" />
-	<path
-   class="st141"
-   d="M502.5,0.9l-3.4,7.8l72.3,54.6c0,0,3.7,5.4,3.7,9.8c0,4.4-1.7,50.2-1.7,50.2l2,8.1l0.6,5.6l-3.2,6.6   c0,0-3.5,3.5-5.9,2.1c-2.4-1.4-1.9-1.7-1.9-2.8c0-1,2.3-4.1,2.3-4.1s3.9-1.3,7.3-2c3.4-0.7,15.9-2.8,15.9-2.8l10.7-0.2l13.3-1   c0,0,22.8-7.7,32.4-9.5c17.1-3.3,30.7-2,30.7-2l91.2,13.7"
-   id="path3116" />
-	<path
-   class="st141"
-   d="M769.4,133.8l-85.9-12.6c0,0-13.3-2.8-23.4-1.3c-3.7,0.6-22.5,3.4-22.5,3.4l-43.1,4.1c0,0-15.3,1.4-17.3,0   c-2-1.4-1.8-25.4-1.8-25.4l-1.1-5.3"
-   id="path3118" />
-	<g
-   id="g3120">
-		<path
-   class="st60"
-   d="M700.9,127.2c0-5.3,6.6-8.1,15.4-8.1c8.9,0,15.7,2.8,15.7,8.1c0,5.7-6.8,8.3-15.7,8.3    C710.9,135.5,700.9,133.2,700.9,127.2z"
-   id="path3122" />
-		<g
-   id="g3124">
+<g id="highway_520_uw_bus_stops">
+	<path class="st136" d="M559.5,43.7c0,0,6.3-0.4,8.1-1.1l6.9-2.9c0,0,2.8-1.4,3.6-0.9s1.4,1.5,1.3,2.4s-2.3,7.2-2.3,7.2l-0.8,2.5
+		l-1.7,9.3"/>
+	<polyline class="st137" points="582.3,39.4 579.6,45 577.4,52.8 576.2,60.2 	"/>
+	<polygon class="st138" points="579.6,46.9 579.3,46.8 580,44.6 581,42.5 581.3,42.7 580.2,45 	"/>
+	<polygon class="st138" points="577.7,52.8 578,52.9 579.1,48.4 578.8,48.4 578.1,51.2 	"/>
+	<path class="st139" d="M551.4,48.1c0,0-1.3-2.8-0.5-3.6s1.3-1.2,3.3-1.1c2,0.1,5.5,0.3,6.8,0.1c1.3-0.1,3.6-0.1,5.6-0.8
+		s7.1-2.8,7.1-2.8s3.6-1.4,4.5-0.8c1.1,0.7,1.2,1.6,0.9,2.4c-0.3,0.8-1.6,5.2-1.6,5.2s-1.3,4.7-1.5,5.2c-0.1,0.5-0.8,4-0.8,4
+		l-0.4,4.1c0,0-0.3,1.6-0.8,2c-0.5,0.4-2.9,0.8-4.1-0.1c-0.7-0.5-0.8-0.3-0.8-0.3l-1.9-1.3"/>
+	<path class="st28" d="M583.9,46.8l-0.5-1.3l-0.8-0.9c-0.1-0.1-3-1.3-3.1-1.3c-0.5-0.1-0.9-0.2-1.3-0.1c-0.1,0-0.3,0-0.4,0l0.1,0.6
+		c0,0,0,0.1,0,0.1c0,0,0.3,0.5,0.3,0.5c0.2,0,0.4-0.1,0.6-0.1c0.3,0,0.6,0,0.9,0c0.7,0.1,1.2,0.4,1.7,0.9c0.1,0.1,0.2,0.2,0.3,0.4
+		c0,0,0,0,0,0c0.1,0.1,0.2,0.2,0.2,0.3c0.5,0.8,0.3,1.9,0,2.8l0,0l-1.2,4.8l-0.8,3.8h0c-0.2,0.7-0.3,1.5-0.4,2.2l0,0l-0.2,1.9
+		l0.7-0.6l0.1-1.4l0,0c0.1-0.7,0.2-1.3,0.3-2l0,0l0.8-3.9l1.1-4.8l0,0c0.4-1.4,0.4-2.9-0.6-4c0,0,0,0,0,0c-0.1-0.1-0.1-0.1-0.2-0.2
+		l0,0l0.4,0.4l0.9,1.1c0,0,0.4,0.7,0.5,0.9l-0.4,0l0,1.3l-0.2,3.8l0.8-0.1l0-3.8l0.2,0c0,0,0,0,0,0.1v0h0l0,2.6l0.7,0l0-2
+		C584.5,49.2,584.4,48.1,583.9,46.8"/>
+	<polygon class="st138" points="576.5,49.4 576.1,49.4 575.1,53.8 575.4,53.9 	"/>
+	<path class="st140" d="M502.5,0.9l-3.4,7.8l72.3,54.6c0,0,3.7,5.4,3.7,9.8c0,4.4-1.7,50.2-1.7,50.2l2,8.1l0.6,5.6l-3.2,6.6
+		c0,0-3.5,3.5-5.9,2.1c-2.4-1.4-1.9-1.7-1.9-2.8c0-1,2.3-4.1,2.3-4.1s3.9-1.3,7.3-2c3.4-0.7,15.9-2.8,15.9-2.8l10.7-0.2l13.3-1
+		c0,0,22.8-7.7,32.4-9.5c17.1-3.3,30.7-2,30.7-2l91.2,13.7"/>
+	<path class="st140" d="M769.4,133.8l-85.9-12.6c0,0-13.3-2.8-23.4-1.3c-3.7,0.6-22.5,3.4-22.5,3.4l-43.1,4.1c0,0-15.3,1.4-17.3,0
+		c-2-1.4-1.8-25.4-1.8-25.4l-1.1-5.3"/>
+	<g>
+		<path class="st60" d="M700.9,127.2c0-5.3,6.6-8.1,15.4-8.1c8.9,0,15.7,2.8,15.7,8.1c0,5.7-6.8,8.3-15.7,8.3
+			C710.9,135.5,700.9,133.2,700.9,127.2z"/>
+		<g>
 			
-				<rect
-   x="704.3"
-   y="121.7"
-   transform="matrix(1 -4.538829e-03 4.538829e-03 1 -0.5789 3.2516)"
-   class="st61"
-   width="23.5"
-   height="14.9"
-   id="rect3126" />
-			<text
-   transform="matrix(1 0 0 1 707.0648 132.1824)"
-   class="st12 st13 st14"
-   id="text3128">520</text>
-
+				<rect x="704.3" y="121.7" transform="matrix(1 -4.538829e-03 4.538829e-03 1 -0.5789 3.2516)" class="st61" width="23.5" height="14.9"/>
+			<text transform="matrix(1 0 0 1 707.0648 132.1824)" class="st12 st13 st14">520</text>
 		</g>
 	</g>
-	<text
-   transform="matrix(1 0 0 1 653.1689 79.7356)"
-   id="text3130"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st63"
-     id="tspan3132">BUS ROUTES:</tspan><tspan
-     x="0"
-     y="9"
-     class="st69 st13 st63"
-     id="tspan3134">Sound Transit  545,</tspan><tspan
-     x="0"
-     y="19"
-     class="st69 st13 st63"
-     id="tspan3136">Metro 242, 255, 257, </tspan><tspan
-     x="0"
-     y="28"
-     class="st69 st13 st63"
-     id="tspan3138">268, 311</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 510.5337 63.5941)"
-   class="st69 st13 st63"
-   id="text3140">New bus stop</text>
-
-	<text
-   transform="matrix(1 0 0 1 594.5087 41.3394)"
-   class="st69 st13 st63"
-   id="text3142">New bus stops</text>
-
-	<text
-   transform="matrix(1 0 0 1 595.7449 59.0036)"
-   class="st69 st13 st63"
-   id="text3144">UW light-rail station</text>
-
-	<line
-   class="st139"
-   x1="575.4"
-   y1="51.9"
-   x2="557"
-   y2="60.9"
-   id="line3146" />
-	<line
-   class="st139"
-   x1="593.7"
-   y1="38.6"
-   x2="581"
-   y2="42.8"
-   id="line3148" />
-	<line
-   class="st139"
-   x1="593.7"
-   y1="38.6"
-   x2="578.8"
-   y2="50.7"
-   id="line3150" />
-	<text
-   transform="matrix(1 0 0 1 589.253 73.4676)"
-   id="text3152"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st63"
-     id="tspan3154">New </tspan><tspan
-     x="0"
-     y="9"
-     class="st69 st13 st63"
-     id="tspan3156">bus-only </tspan><tspan
-     x="0"
-     y="18"
-     class="st69 st13 st63"
-     id="tspan3158">lane</tspan></text>
-
-	<line
-   class="st139"
-   x1="588.4"
-   y1="70.1"
-   x2="576.5"
-   y2="59"
-   id="line3160" />
-	<polygon
-   class="st69"
-   points="660.7,109.7 664.6,109.7 656.6,120.3  "
-   id="polygon3162" />
-	<polygon
-   class="st69"
-   points="594.5,54.4 594.5,57.3 584.8,54.9  "
-   id="polygon3164" />
+	<text transform="matrix(1 0 0 1 653.1689 79.7356)"><tspan x="0" y="0" class="st69 st13 st63">BUS ROUTES:</tspan><tspan x="0" y="9" class="st69 st13 st63">Sound Transit  545,</tspan><tspan x="0" y="19" class="st69 st13 st63">Metro 242, 255, 257, </tspan><tspan x="0" y="28" class="st69 st13 st63">268, 311</tspan></text>
+	<text transform="matrix(1 0 0 1 510.5337 63.5941)" class="st69 st13 st63">New bus stop</text>
+	<text transform="matrix(1 0 0 1 594.5087 41.3394)" class="st69 st13 st63">New bus stops</text>
+	<text transform="matrix(1 0 0 1 595.7449 59.0036)" class="st69 st13 st63">UW light-rail station</text>
+	<line class="st138" x1="575.4" y1="51.9" x2="557" y2="60.9"/>
+	<line class="st138" x1="593.7" y1="38.6" x2="581" y2="42.8"/>
+	<line class="st138" x1="593.7" y1="38.6" x2="578.8" y2="50.7"/>
+	<text transform="matrix(1 0 0 1 589.253 73.4676)"><tspan x="0" y="0" class="st69 st13 st63">New </tspan><tspan x="0" y="9" class="st69 st13 st63">bus-only </tspan><tspan x="0" y="18" class="st69 st13 st63">lane</tspan></text>
+	<line class="st138" x1="588.4" y1="70.1" x2="576.5" y2="59"/>
+	<polygon class="st69" points="660.7,109.7 664.6,109.7 656.6,120.3 	"/>
+	<polygon class="st69" points="594.5,54.4 594.5,57.3 584.8,54.9 	"/>
 </g>
-<g
-   id="Sound_transit_rail_shortage">
-	<polygon
-   class="st142"
-   points="582.4,45 586.7,45 586.6,66.3 582.3,66.4  "
-   id="polygon3167" />
-	<path
-   class="st143"
-   d="M556.2-0.2c12.2,5.3,20.7,24.8,25.6,36.1c4.9,11.3,2,33.7,2,33.7l0,24.5l-0.8,59.6l-24.4,72.4l-52.9,95.5   c0,0-93.2,125.4-93.2,160.7c0,7.1,0.8,31,0.8,31s3.4,13.8-14.2,33.3c-6.5,7.1-38,10.1-48.1,7.5c-21.1-5.5-35.7,4.9-35.7,4.9   l-86.9,50.6c0,0-6.8,10.3-1.8,19.1c5,8.8,66,110.5,66,110.5s4.2,5.6,11,11c6.8,5.5,21.1,11.9,22.4,18.5c1.2,6.6,0.6,14.9,0.6,14.9   l0.7,41.3l-0.6,84.4"
-   id="path3169" />
-	<text
-   transform="matrix(1 0 0 1 331.5676 792.3567)"
-   id="text3171"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st63"
-     id="tspan3173">International District/</tspan><tspan
-     x="0"
-     y="9"
-     class="st69 st13 st63"
-     id="tspan3175">Chinatown Station</tspan></text>
-
-	<text
-   transform="matrix(1 0 0 1 288.2556 707.4449)"
-   class="st69 st13 st63"
-   id="text3177">Light-rail route</text>
-
-	<polygon
-   class="st142"
-   points="238.1,650.6 241,649 248.9,662 245.9,663.7  "
-   id="polygon3179" />
-	<polygon
-   class="st142"
-   points="227.6,611.6 225.8,608.5 241.4,599.9 243.3,603  "
-   id="polygon3181" />
-	<polygon
-   class="st142"
-   points="284,728.5 286.6,726.5 293.8,737.5 291.3,739.5  "
-   id="polygon3183" />
-	<polygon
-   class="st144"
-   points="324.8,782 328.6,781.9 328.5,801.9 324.8,802.1  "
-   id="polygon3185" />
-	<polygon
-   class="st142"
-   points="324.8,782 328.6,781.9 328.5,801.9 324.8,802.1  "
-   id="polygon3187" />
-	<polygon
-   class="st142"
-   points="324.8,879.1 329.1,879.5 329,899.5 324.8,899.2  "
-   id="polygon3189" />
-	<polygon
-   class="st142"
-   points="410.8,476.6 415.1,476.5 415,497.9 410.7,498  "
-   id="polygon3191" />
-	<polygon
-   class="st69"
-   points="287.1,710 291.8,710.5 281.6,720.8  "
-   id="polygon3193" />
-	<text
-   transform="matrix(1 0 0 1 527.8755 9.4652)"
-   id="text3195"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st53"
-     id="tspan3197">University of</tspan><tspan
-     x="0"
-     y="12"
-     class="st69 st13 st53"
-     id="tspan3199">Washington </tspan></text>
-
+<g id="Sound_transit_rail_shortage">
+	<polygon class="st141" points="582.4,45 586.7,45 586.6,66.3 582.3,66.4 	"/>
+	<path class="st142" d="M556.2-0.2c12.2,5.3,20.7,24.8,25.6,36.1c4.9,11.3,2,33.7,2,33.7l0,24.5l-0.8,59.6l-24.4,72.4l-52.9,95.5
+		c0,0-93.2,125.4-93.2,160.7c0,7.1,0.8,31,0.8,31s3.4,13.8-14.2,33.3c-6.5,7.1-38,10.1-48.1,7.5c-21.1-5.5-35.7,4.9-35.7,4.9
+		l-77.5,42.5c0,0-6.8,10.3-1.8,19.1c5,8.8,66,110.5,66,110.5s4.2,5.6,11,11c6.8,5.5,11.7,19.7,13,26.3c1.2,6.6,0.7,15.2,0.7,15.2
+		l0.7,41.3l-0.6,84.4"/>
+	<text transform="matrix(1 0 0 1 331.5676 792.3567)"><tspan x="0" y="0" class="st69 st13 st63">International District/</tspan><tspan x="0" y="9" class="st69 st13 st63">Chinatown Station</tspan></text>
+	<text transform="matrix(1 0 0 1 296.9223 699.4449)" class="st69 st13 st63">Light-rail route</text>
+	<polygon class="st141" points="248.4,643.9 251.4,642.3 259.2,655.4 256.3,657 	"/>
+	<polygon class="st141" points="238,604.9 236.1,601.8 251.8,593.3 253.6,596.4 	"/>
+	<polygon class="st141" points="294.4,721.9 296.9,719.9 304.2,730.8 301.6,732.8 	"/>
+	<polygon class="st143" points="324.8,782 328.6,781.9 328.5,801.9 324.8,802.1 	"/>
+	<polygon class="st141" points="324.8,782 328.6,781.9 328.5,801.9 324.8,802.1 	"/>
+	<polygon class="st141" points="324.8,879.1 329.1,879.5 329,899.5 324.8,899.2 	"/>
+	<polygon class="st141" points="410.8,476.6 415.1,476.5 415,497.9 410.7,498 	"/>
+	<polygon class="st69" points="295.8,702 300.5,702.5 290.3,712.8 	"/>
+	<text transform="matrix(1 0 0 1 527.8755 9.4652)"><tspan x="0" y="0" class="st69 st13 st53">University of</tspan><tspan x="0" y="12" class="st69 st13 st53">Washington </tspan></text>
 </g>
-<g
-   id="northgate_and_bellevue_buses">
-	<path
-   class="st145"
-   d="M401,2.2l-9.2,243.3c0,0-7.5,42.1-15.5,60.1c-3.7,8.4-20,24.7-20,24.7s-19.3,25.4-20.7,32   c-1.3,6.6-2.7,22.7-2.7,22.7l0.7,70.2l-1.4,36.7l-6.8,45.2l-1.9,6.8l-12,32.8l-3.6,9.3l-5,12.7l-4.6,6.7l-5.8,6.1L259.7,631   l-35.4,20.5l-8.6-15l89.2-52"
-   id="path3202" />
-	<text
-   transform="matrix(1 0 0 1 249.5094 509.1855)"
-   id="text3204"><tspan
-     x="0"
-     y="0"
-     class="st69 st79 st146"
-     id="tspan3206">METRO ROUTE: </tspan><tspan
-     x="0"
-     y="12.2"
-     class="st69 st79 st146"
-     id="tspan3208">41 Northgate </tspan><tspan
-     x="0"
-     y="24.3"
-     class="st69 st79 st146"
-     id="tspan3210">Express</tspan></text>
-
-	<polygon
-   points="289.7,528.8 289.7,532.3 324.3,532.8  "
-   id="polygon3212" />
-	<polygon
-   class="st69"
-   points="275.9,600.4 274.8,598.3 279.5,596.9  "
-   id="polygon3214" />
-	<polygon
-   class="st69"
-   points="261.8,608.4 260.7,606.3 265.4,604.9  "
-   id="polygon3216" />
-	<polygon
-   class="st69"
-   points="239.3,621.5 238.2,619.3 242.8,617.9  "
-   id="polygon3218" />
-	<polygon
-   class="st69"
-   points="287.3,610.6 288.4,612.7 283.8,614.2  "
-   id="polygon3220" />
-	<polygon
-   class="st69"
-   points="273.6,618.4 274.6,620.6 270,622  "
-   id="polygon3222" />
-	<polygon
-   class="st69"
-   points="252.2,631.3 253.3,633.5 248.6,634.9  "
-   id="polygon3224" />
-	<polygon
-   class="st69"
-   points="331.2,781.6 333.6,781.9 332.3,786.6  "
-   id="polygon3226" />
-	<polygon
-   class="st69"
-   points="331,808.2 333.4,808.5 332.1,813.2  "
-   id="polygon3228" />
-	<polygon
-   class="st69"
-   points="330.8,832.8 333.2,833.1 331.8,837.8  "
-   id="polygon3230" />
-	<polygon
-   class="st69"
-   points="333.2,857.7 335.5,857 336.2,861.8  "
-   id="polygon3232" />
-	<polygon
-   class="st69"
-   points="324.2,842.5 321.9,842.2 323.2,837.5  "
-   id="polygon3234" />
-	<polygon
-   class="st69"
-   points="324.5,815.9 322.1,815.6 323.4,810.9  "
-   id="polygon3236" />
-	<polygon
-   class="st69"
-   points="324.7,791.3 322.3,791 323.6,786.3  "
-   id="polygon3238" />
-	<polygon
-   class="st69"
-   points="312.6,861.4 310.2,861.1 311.6,856.4  "
-   id="polygon3240" />
-	<polygon
-   class="st69"
-   points="325.4,772.6 323,772.3 324.3,767.7  "
-   id="polygon3242" />
-	<polygon
-   class="st69"
-   points="325.6,748 323.2,747.8 324.6,743.1  "
-   id="polygon3244" />
-	<polygon
-   class="st69"
-   points="220,647.3 217.8,648.2 216.7,643.5  "
-   id="polygon3246" />
-	<text
-   transform="matrix(0.8744 -0.4852 0.4852 0.8744 216.3413 633.7423)"
-   class="st69 st64 st66"
-   id="text3248">PIKE ST.</text>
-
-	<text
-   transform="matrix(0.8744 -0.4852 0.4852 0.8744 225.3838 648.7145)"
-   class="st69 st64 st66"
-   id="text3250">UNION ST.</text>
-
-	<text
-   transform="matrix(1 0 0 1 289.5739 599.9977)"
-   id="text3252"><tspan
-     x="0"
-     y="0"
-     class="st69 st52 st63"
-     id="tspan3254">Washington State</tspan><tspan
-     x="0"
-     y="9"
-     class="st69 st52 st63"
-     id="tspan3256">Convention Center  </tspan></text>
-
-	<path
-   class="st147"
-   d="M358.3,873c-6,1.7-9.7,2-12.5,2.3c-8.4,0.8-29.5,1.1-31.2-4c-1.7-5,0.7-19.5,0.7-19.5s5.2-3.9,4.3-8.1   c-0.8-4.2,2.1-102.9,2.1-102.9"
-   id="path3258" />
-	<path
-   class="st147"
-   d="M573.2,908c-8.8,0-48.3,0.8-58.3-3.2c-11.1-4.4-24.3-32.7-31-41.5c-6.7-8.8-20-29.5-50.5-17   c-17.7,7.2-34.5,13.5-34.5,13.5l-14.7,5.2c0,0-14,4.6-25.8,8"
-   id="path3260" />
-	<path
-   class="st147"
-   d="M571.7,906.5c-8.8,0-45.8,0.8-55.8-3.2c-11.1-4.4-22.3-34.7-29-43.5c-6.7-8.8-16.5-30.5-47-18   c-17.7,7.2-41.5,14.5-41.5,14.5l-18.5,7.5c0,0-11.1,4.3-23,7.7"
-   id="path3262" />
-	<path
-   class="st147"
-   d="M364.9,870.5c0,0-8.9,3.3-18.1,0.8c-9.2-2.5-12.1-25.1-12.1-28.4c0-3.3,0.6-103.1,0.6-103.1"
-   id="path3264" />
-	<g
-   id="g3266">
-		<text
-   transform="matrix(1 0 0 1 349.3942 892.6126)"
-   class="st69 st79 st146"
-   id="text3268">SOUND TRANSIT ROUTE: 550</text>
-
+<g id="northgate_and_bellevue_buses">
+	<path class="st144" d="M401,2.2l-9.2,243.3c0,0-7.5,42.1-15.5,60.1c-3.7,8.4-20,24.7-20,24.7s-19.3,25.4-20.7,32
+		c-1.3,6.6-2.7,22.7-2.7,22.7l0.7,70.2l-1.4,36.7l-6.8,45.2l-1.9,6.8l-12,32.8l-3.6,9.3l-5,12.7l-4.6,6.7l-5.8,6.1L259.7,631
+		l-35.4,20.5l-8.6-15l89.2-52"/>
+	<text transform="matrix(1 0 0 1 249.5094 509.1855)"><tspan x="0" y="0" class="st69 st79 st145">METRO ROUTE: </tspan><tspan x="0" y="12.2" class="st69 st79 st145">41 Northgate </tspan><tspan x="0" y="24.3" class="st69 st79 st145">Express</tspan></text>
+	<polygon points="289.7,528.8 289.7,532.3 324.3,532.8 	"/>
+	<polygon class="st69" points="275.9,600.4 274.8,598.3 279.5,596.9 	"/>
+	<polygon class="st69" points="261.8,608.4 260.7,606.3 265.4,604.9 	"/>
+	<polygon class="st69" points="239.3,621.5 238.2,619.3 242.8,617.9 	"/>
+	<polygon class="st69" points="287.3,610.6 288.4,612.7 283.8,614.2 	"/>
+	<polygon class="st69" points="273.6,618.4 274.6,620.6 270,622 	"/>
+	<polygon class="st69" points="252.2,631.3 253.3,633.5 248.6,634.9 	"/>
+	<polygon class="st69" points="331.2,781.6 333.6,781.9 332.3,786.6 	"/>
+	<polygon class="st69" points="331,808.2 333.4,808.5 332.1,813.2 	"/>
+	<polygon class="st69" points="330.8,832.8 333.2,833.1 331.8,837.8 	"/>
+	<polygon class="st69" points="333.2,857.7 335.5,857 336.2,861.8 	"/>
+	<polygon class="st69" points="324.2,842.5 321.9,842.2 323.2,837.5 	"/>
+	<polygon class="st69" points="324.5,815.9 322.1,815.6 323.4,810.9 	"/>
+	<polygon class="st69" points="324.7,791.3 322.3,791 323.6,786.3 	"/>
+	<polygon class="st69" points="312.6,861.4 310.2,861.1 311.6,856.4 	"/>
+	<polygon class="st69" points="325.4,772.6 323,772.3 324.3,767.7 	"/>
+	<polygon class="st69" points="325.6,748 323.2,747.8 324.6,743.1 	"/>
+	<polygon class="st69" points="220,647.3 217.8,648.2 216.7,643.5 	"/>
+	<text transform="matrix(0.8744 -0.4852 0.4852 0.8744 216.3413 633.7423)" class="st69 st64 st66">PIKE ST.</text>
+	<text transform="matrix(0.8744 -0.4852 0.4852 0.8744 225.3838 648.7145)" class="st69 st64 st66">UNION ST.</text>
+	<text transform="matrix(1 0 0 1 289.5739 599.9977)"><tspan x="0" y="0" class="st69 st52 st63">Washington State</tspan><tspan x="0" y="9" class="st69 st52 st63">Convention Center  </tspan></text>
+	<path class="st146" d="M358.3,873c-6,1.7-9.7,2-12.5,2.3c-8.4,0.8-29.5,1.1-31.2-4c-1.7-5,0.7-19.5,0.7-19.5s5.2-3.9,4.3-8.1
+		c-0.8-4.2,2.1-102.9,2.1-102.9"/>
+	<path class="st146" d="M573.2,908c-8.8,0-48.3,0.8-58.3-3.2c-11.1-4.4-24.3-32.7-31-41.5c-6.7-8.8-20-29.5-50.5-17
+		c-17.7,7.2-34.5,13.5-34.5,13.5l-14.7,5.2c0,0-14,4.6-25.8,8"/>
+	<path class="st146" d="M571.7,906.5c-8.8,0-45.8,0.8-55.8-3.2c-11.1-4.4-22.3-34.7-29-43.5c-6.7-8.8-16.5-30.5-47-18
+		c-17.7,7.2-41.5,14.5-41.5,14.5l-18.5,7.5c0,0-11.1,4.3-23,7.7"/>
+	<path class="st146" d="M364.9,870.5c0,0-8.9,3.3-18.1,0.8c-9.2-2.5-12.1-25.1-12.1-28.4c0-3.3,0.6-103.1,0.6-103.1"/>
+	<g>
+		<text transform="matrix(1 0 0 1 349.3942 892.6126)" class="st69 st79 st145">SOUND TRANSIT ROUTE: 550</text>
 	</g>
-	<g
-   id="g3270">
-		<g
-   id="g3272">
-			<path
-   class="st60"
-   d="M466.4,835.9c0,0-1.1,1.5-3.6,1.5c-2.2,0-3.9-1.5-3.9-1.5s-4.2,3.5-2.9,8.8c1.4,5.8,10.1,7.7,10.1,7.7     s8.9-1.7,10.6-7.7c1.5-5.2-2.9-8.8-2.9-8.8s-1.7,1.5-3.9,1.5C467.5,837.4,466.4,835.9,466.4,835.9z"
-   id="path3274" />
+	<g>
+		<g>
+			<path class="st60" d="M466.4,835.9c0,0-1.1,1.5-3.6,1.5c-2.2,0-3.9-1.5-3.9-1.5s-4.2,3.5-2.9,8.8c1.4,5.8,10.1,7.7,10.1,7.7
+				s8.9-1.7,10.6-7.7c1.5-5.2-2.9-8.8-2.9-8.8s-1.7,1.5-3.9,1.5C467.5,837.4,466.4,835.9,466.4,835.9z"/>
 		</g>
-		<g
-   id="g3276">
-			<text
-   transform="matrix(1 0 0 1 460.3626 848.022)"
-   class="st12 st13 st14"
-   id="text3278">90</text>
-
+		<g>
+			<text transform="matrix(1 0 0 1 460.3626 848.022)" class="st12 st13 st14">90</text>
 		</g>
 	</g>
-	<polygon
-   class="st69"
-   points="469,882.2 475,882.2 486.3,866.8  "
-   id="polygon3280" />
-	<text
-   transform="matrix(2.459000e-02 -0.9997 0.9997 2.459000e-02 333.1569 767.9046)"
-   class="st69 st64 st66"
-   id="text3282">5TH AVE. S.</text>
-
-	<text
-   transform="matrix(2.459000e-02 -0.9997 0.9997 2.459000e-02 318.4797 816.6585)"
-   class="st69 st64 st66"
-   id="text3284">4TH AVE. S.</text>
-
+	<polygon class="st69" points="469,882.2 475,882.2 486.3,866.8 	"/>
+	<text transform="matrix(2.459000e-02 -0.9997 0.9997 2.459000e-02 333.1569 767.9046)" class="st69 st64 st66">5TH AVE. S.</text>
+	<text transform="matrix(2.459000e-02 -0.9997 0.9997 2.459000e-02 318.4797 816.6585)" class="st69 st64 st66">4TH AVE. S.</text>
 </g>
-<g
-   id="pike_pine_sidewalks_and_bikeways">
-	<polyline
-   class="st148"
-   points="215,637.2 341.1,563.7 406.1,564.6  "
-   id="polyline3287" />
-	<polyline
-   class="st148"
-   points="406.4,548 336.4,546.2 208.2,621.9  "
-   id="polyline3289" />
-	<text
-   transform="matrix(0.5373 0.8434 -0.8434 0.5373 218.2239 638.2763)"
-   class="st69 st64 st66"
-   id="text3291">1ST AVE.</text>
-
-	<text
-   transform="matrix(0.8643 -0.5029 0.5029 0.8643 208.2782 619.3478)"
-   class="st69 st64 st66"
-   id="text3293">PINE ST.</text>
-
-	<text
-   transform="matrix(0.8744 -0.4852 0.4852 0.8744 216.3413 633.7423)"
-   class="st69 st64 st66"
-   id="text3295">PIKE ST.</text>
-
-	<text
-   transform="matrix(1.687000e-02 -0.9999 0.9999 1.687000e-02 412.3582 578.5805)"
-   class="st69 st64 st65"
-   id="text3297">BROADWAY</text>
-
+<g id="pike_pine_sidewalks_and_bikeways">
+	<polyline class="st147" points="215,637.2 341.1,563.7 406.1,564.6 	"/>
+	<polyline class="st147" points="406.4,548 336.4,546.2 208.2,621.9 	"/>
+	<text transform="matrix(0.5373 0.8434 -0.8434 0.5373 218.2239 638.2763)" class="st69 st64 st66">1ST AVE.</text>
+	<text transform="matrix(0.8643 -0.5029 0.5029 0.8643 208.2782 619.3478)" class="st69 st64 st66">PINE ST.</text>
+	<text transform="matrix(0.8744 -0.4852 0.4852 0.8744 216.3413 633.7423)" class="st69 st64 st66">PIKE ST.</text>
+	<text transform="matrix(1.687000e-02 -0.9999 0.9999 1.687000e-02 412.3582 578.5805)" class="st69 st64 st65">BROADWAY</text>
 </g>
-<g
-   id="orca_cards_on_monorail">
-	<polygon
-   class="st149"
-   points="242.7,584.5 240.7,584.5 238.7,585.5 237.7,587.2 236.3,586.8 234,588.8 238.3,595.8 239.3,595.2    240.3,595.8 242,596.2 239.7,597.2 245.3,596.5 248,595.2  "
-   id="polygon3300" />
-	<path
-   class="st86"
-   d="M248.3,593.5l-7.3-12.7l-89.3-79c0,0-6.3-5.7-6.3-16c0-10.3,0.3-25,0.3-25s-3-4-6.3-5   c-3.3-1-18.3,1.3-18.3,1.3"
-   id="path3302" />
-	<text
-   transform="matrix(1 0 0 1 101.7591 441.2617)"
-   id="text3304"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st53"
-     id="tspan3306">Seattle</tspan><tspan
-     x="0"
-     y="12"
-     class="st69 st13 st53"
-     id="tspan3308">Center </tspan></text>
-
-	<text
-   transform="matrix(0.7124 0.7018 -0.7018 0.7124 190.1857 532.9079)"
-   class="st69 st64 st66"
-   id="text3310">5TH AVE.</text>
-
-	<g
-   id="g3312">
-		<text
-   transform="matrix(1 0 0 1 216.899 545.3254)"
-   class="st69 st13 st53"
-   id="text3314">Monorail</text>
-
+<g id="orca_cards_on_monorail">
+	<polygon class="st148" points="242.7,584.5 240.7,584.5 238.7,585.5 237.7,587.2 236.3,586.8 234,588.8 238.3,595.8 239.3,595.2 
+		240.3,595.8 242,596.2 239.7,597.2 245.3,596.5 248,595.2 	"/>
+	<path class="st86" d="M248.3,593.5l-7.3-12.7l-89.3-79c0,0-6.3-5.7-6.3-16c0-10.3,0.3-25,0.3-25s-3-4-6.3-5
+		c-3.3-1-18.3,1.3-18.3,1.3"/>
+	<text transform="matrix(1 0 0 1 101.7591 441.2617)"><tspan x="0" y="0" class="st69 st13 st53">Seattle</tspan><tspan x="0" y="12" class="st69 st13 st53">Center </tspan></text>
+	<text transform="matrix(0.7124 0.7018 -0.7018 0.7124 190.1857 532.9079)" class="st69 st64 st66">5TH AVE.</text>
+	<g>
+		<text transform="matrix(1 0 0 1 216.899 545.3254)" class="st69 st13 st53">Monorail</text>
 	</g>
-	<polygon
-   points="230,547.8 234.3,547.8 219.5,561.5  "
-   id="polygon3316" />
-	<text
-   transform="matrix(1 0 0 1 240.583 606.3585)"
-   id="text3318"><tspan
-     x="0"
-     y="0"
-     class="st69 st13 st53"
-     id="tspan3320">Westlake</tspan><tspan
-     x="0"
-     y="12"
-     class="st69 st13 st53"
-     id="tspan3322">Center</tspan></text>
-
+	<polygon points="230,547.8 234.3,547.8 219.5,561.5 	"/>
+	<text transform="matrix(1 0 0 1 240.583 606.3585)"><tspan x="0" y="0" class="st69 st13 st53">Westlake</tspan><tspan x="0" y="12" class="st69 st13 st53">Center</tspan></text>
 </g>
 </svg>
